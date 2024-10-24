@@ -1,0 +1,4 @@
+/home/dieaigar/Work/BOAND/HELLO_WORLD/scripts/TEST/2024-10-23_22:30:03/TEST_b_hadd_Blind_Blind_Zero_random_600_tireworld-truck_p3.sh: line 3: 47301 Killed                  python /home/dieaigar/Work/BOAND/planner/planner.py /home/dieaigar/Work/BOAND/benchmarks/tireworld-truck/domain.pddl /home/dieaigar/Work/BOAND/benchmarks/tireworld-truck/p3.pddl /home/dieaigar/Work/BOAND/HELLO_WORLD/results/TEST/RUN_2024-10-23_22:30:03/b_hadd_Blind_Blind_Zero_random_600/tireworld-truck/p3/solutions/tireworld-truck_p3.sol -m b -ch hadd -bh Blind -wh Blind -sh Zero -s random
+real 550.02
+user 79.86
+sys 98.68

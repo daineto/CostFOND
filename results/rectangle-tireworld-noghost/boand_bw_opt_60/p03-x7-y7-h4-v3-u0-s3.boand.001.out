@@ -1,0 +1,36 @@
+If holds: (xpos n0)/(ypos n0)/(dead_0)
+Execute: (move_u_sf n0 n0 n1)
+
+If holds: (xpos n0)/(ypos n1)/(dead_0)
+Execute: (move_u_sf n0 n1 n2)
+
+If holds: (xpos n0)/(dead_0)/(ypos n2)
+Execute: (move_u_sf n0 n2 n3)
+
+If holds: (xpos n0)/(ypos n3)/(dead_0)
+Execute: (move_u_sf n0 n3 n4)
+
+If holds: (ypos n4)/(xpos n0)/(dead_0)
+Execute: (move_u_sf n0 n4 n5)
+
+If holds: (xpos n0)/(dead_0)/(ypos n5)
+Execute: (move_r_sf n0 n5 n1)
+
+If holds: (xpos n1)/(dead_0)/(ypos n5)
+Execute: (move_r_sf n1 n5 n2)
+
+If holds: (xpos n2)/(dead_0)/(ypos n5)
+Execute: (move_r_sf n2 n5 n3)
+
+If holds: (xpos n3)/(dead_0)/(ypos n5)
+Execute: (move_r_sf n3 n5 n4)
+
+If holds: (xpos n4)/(dead_0)/(ypos n5)
+Execute: (move_r_sf n4 n5 n5)
+
+If holds: (xpos n5)/(dead_0)/(ypos n5)
+Execute: (move_u_sf n5 n5 n6)
+
+If holds: (xpos n5)/(ypos n6)/(dead_0)
+Execute: (move_r_sf n5 n6 n6)
+

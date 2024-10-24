@@ -1,0 +1,9 @@
+If holds: (at_ tile_1_2)
+Execute: (right tile_1_2 tile_2_2 tile_3_2)
+
+If holds: (at_ tile_2_2)
+Execute: (right tile_2_2 tile_3_2 tile_4_2)
+
+If holds: (at_ tile_3_2)
+Execute: (left tile_3_2 tile_2_2 tile_1_2)
+

@@ -1,0 +1,6843 @@
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:1
+Forbid: jump-over p1 p2 p3
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:1
+Forbid: jump-over p1 p2 p3
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:179
+Forbid: jump-over p3 p4 p5
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:179
+Forbid: jump-over p3 p4 p5
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:1
+Forbid: jump-over p1 p2 p3
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:201
+Forbid: jump-over p5 p6 p7
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:201
+Forbid: jump-over p5 p6 p7
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:179
+Forbid: jump-over p3 p4 p5
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:223
+Forbid: jump-over p7 p8 p9
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:223
+Forbid: jump-over p7 p8 p9
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:201
+Forbid: jump-over p5 p6 p7
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:245
+Forbid: jump-over p9 p10 p11
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:245
+Forbid: jump-over p9 p10 p11
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:223
+Forbid: jump-over p7 p8 p9
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:13
+Forbid: jump-over p11 p12 p13
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:13
+Forbid: jump-over p11 p12 p13
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:245
+Forbid: jump-over p9 p10 p11
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:35
+Forbid: jump-over p13 p14 p15
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:35
+Forbid: jump-over p13 p14 p15
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:13
+Forbid: jump-over p11 p12 p13
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:57
+Forbid: jump-over p15 p16 p17
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:57
+Forbid: jump-over p15 p16 p17
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:35
+Forbid: jump-over p13 p14 p15
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:79
+Forbid: jump-over p17 p18 p19
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:79
+Forbid: jump-over p17 p18 p19
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:57
+Forbid: jump-over p15 p16 p17
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:101
+Forbid: jump-over p19 p20 p21
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:101
+Forbid: jump-over p19 p20 p21
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:79
+Forbid: jump-over p17 p18 p19
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:124
+Forbid: jump-over p21 p22 p23
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:124
+Forbid: jump-over p21 p22 p23
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:101
+Forbid: jump-over p19 p20 p21
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:146
+Forbid: jump-over p23 p24 p25
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:146
+Forbid: jump-over p23 p24 p25
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:124
+Forbid: jump-over p21 p22 p23
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:168
+Forbid: jump-over p25 p26 p27
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:168
+Forbid: jump-over p25 p26 p27
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:146
+Forbid: jump-over p23 p24 p25
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:176
+Forbid: jump-over p27 p28 p29
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:176
+Forbid: jump-over p27 p28 p29
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:168
+Forbid: jump-over p25 p26 p27
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:178
+Forbid: jump-over p29 p30 p31
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:178
+Forbid: jump-over p29 p30 p31
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:176
+Forbid: jump-over p27 p28 p29
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:181
+Forbid: jump-over p31 p32 p33
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:181
+Forbid: jump-over p31 p32 p33
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:178
+Forbid: jump-over p29 p30 p31
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:183
+Forbid: jump-over p33 p34 p35
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:183
+Forbid: jump-over p33 p34 p35
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:181
+Forbid: jump-over p31 p32 p33
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:185
+Forbid: jump-over p35 p36 p37
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:185
+Forbid: jump-over p35 p36 p37
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:183
+Forbid: jump-over p33 p34 p35
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:187
+Forbid: jump-over p37 p38 p39
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:187
+Forbid: jump-over p37 p38 p39
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:185
+Forbid: jump-over p35 p36 p37
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:189
+Forbid: jump-over p39 p40 p41
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:189
+Forbid: jump-over p39 p40 p41
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:187
+Forbid: jump-over p37 p38 p39
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:192
+Forbid: jump-over p41 p42 p43
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:192
+Forbid: jump-over p41 p42 p43
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:189
+Forbid: jump-over p39 p40 p41
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:194
+Forbid: jump-over p43 p44 p45
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:194
+Forbid: jump-over p43 p44 p45
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:192
+Forbid: jump-over p41 p42 p43
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:196
+Forbid: jump-over p45 p46 p47
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:196
+Forbid: jump-over p45 p46 p47
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:194
+Forbid: jump-over p43 p44 p45
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:198
+Forbid: jump-over p47 p48 p49
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:198
+Forbid: jump-over p47 p48 p49
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:196
+Forbid: jump-over p45 p46 p47
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:200
+Forbid: jump-over p49 p50 p51
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:200
+Forbid: jump-over p49 p50 p51
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:198
+Forbid: jump-over p47 p48 p49
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:203
+Forbid: jump-over p51 p52 p53
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:203
+Forbid: jump-over p51 p52 p53
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:200
+Forbid: jump-over p49 p50 p51
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:205
+Forbid: jump-over p53 p54 p55
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:205
+Forbid: jump-over p53 p54 p55
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:203
+Forbid: jump-over p51 p52 p53
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:207
+Forbid: jump-over p55 p56 p57
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:207
+Forbid: jump-over p55 p56 p57
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:205
+Forbid: jump-over p53 p54 p55
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:209
+Forbid: jump-over p57 p58 p59
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:209
+Forbid: jump-over p57 p58 p59
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:207
+Forbid: jump-over p55 p56 p57
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:211
+Forbid: jump-over p59 p60 p61
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:211
+Forbid: jump-over p59 p60 p61
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:209
+Forbid: jump-over p57 p58 p59
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:214
+Forbid: jump-over p61 p62 p63
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:214
+Forbid: jump-over p61 p62 p63
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:211
+Forbid: jump-over p59 p60 p61
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:216
+Forbid: jump-over p63 p64 p65
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:216
+Forbid: jump-over p63 p64 p65
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:214
+Forbid: jump-over p61 p62 p63
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:218
+Forbid: jump-over p65 p66 p67
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:218
+Forbid: jump-over p65 p66 p67
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:216
+Forbid: jump-over p63 p64 p65
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:220
+Forbid: jump-over p67 p68 p69
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:220
+Forbid: jump-over p67 p68 p69
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:218
+Forbid: jump-over p65 p66 p67
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:222
+Forbid: jump-over p69 p70 p71
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:222
+Forbid: jump-over p69 p70 p71
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:220
+Forbid: jump-over p67 p68 p69
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:225
+Forbid: jump-over p71 p72 p73
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:225
+Forbid: jump-over p71 p72 p73
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:222
+Forbid: jump-over p69 p70 p71
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:227
+Forbid: jump-over p73 p74 p75
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:227
+Forbid: jump-over p73 p74 p75
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:225
+Forbid: jump-over p71 p72 p73
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:229
+Forbid: jump-over p75 p76 p77
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:229
+Forbid: jump-over p75 p76 p77
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:227
+Forbid: jump-over p73 p74 p75
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:231
+Forbid: jump-over p77 p78 p79
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:231
+Forbid: jump-over p77 p78 p79
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:229
+Forbid: jump-over p75 p76 p77
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:233
+Forbid: jump-over p79 p80 p81
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:233
+Forbid: jump-over p79 p80 p81
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:231
+Forbid: jump-over p77 p78 p79
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:236
+Forbid: jump-over p81 p82 p83
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:236
+Forbid: jump-over p81 p82 p83
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:233
+Forbid: jump-over p79 p80 p81
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:238
+Forbid: jump-over p83 p84 p85
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:238
+Forbid: jump-over p83 p84 p85
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:236
+Forbid: jump-over p81 p82 p83
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:240
+Forbid: jump-over p85 p86 p87
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:240
+Forbid: jump-over p85 p86 p87
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:238
+Forbid: jump-over p83 p84 p85
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:242
+Forbid: jump-over p87 p88 p89
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:242
+Forbid: jump-over p87 p88 p89
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:240
+Forbid: jump-over p85 p86 p87
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:244
+Forbid: jump-over p89 p90 p91
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:244
+Forbid: jump-over p89 p90 p91
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:242
+Forbid: jump-over p87 p88 p89
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:247
+Forbid: jump-over p91 p92 p93
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:247
+Forbid: jump-over p91 p92 p93
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:244
+Forbid: jump-over p89 p90 p91
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:249
+Forbid: jump-over p93 p94 p95
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:249
+Forbid: jump-over p93 p94 p95
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:247
+Forbid: jump-over p91 p92 p93
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:251
+Forbid: jump-over p95 p96 p97
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:251
+Forbid: jump-over p95 p96 p97
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:249
+Forbid: jump-over p93 p94 p95
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:253
+Forbid: jump-over p97 p98 p99
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:253
+Forbid: jump-over p97 p98 p99
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:251
+Forbid: jump-over p95 p96 p97
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:255
+Forbid: jump-over p99 p100 p101
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:255
+Forbid: jump-over p99 p100 p101
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:253
+Forbid: jump-over p97 p98 p99
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:4
+Forbid: jump-over p101 p102 p103
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:4
+Forbid: jump-over p101 p102 p103
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:255
+Forbid: jump-over p99 p100 p101
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:6
+Forbid: jump-over p103 p104 p105
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:6
+Forbid: jump-over p103 p104 p105
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:4
+Forbid: jump-over p101 p102 p103
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:8
+Forbid: jump-over p105 p106 p107
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:8
+Forbid: jump-over p105 p106 p107
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:6
+Forbid: jump-over p103 p104 p105
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:10
+Forbid: jump-over p107 p108 p109
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:10
+Forbid: jump-over p107 p108 p109
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:8
+Forbid: jump-over p105 p106 p107
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:12
+Forbid: jump-over p109 p110 p111
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:12
+Forbid: jump-over p109 p110 p111
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:10
+Forbid: jump-over p107 p108 p109
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:15
+Forbid: jump-over p111 p112 p113
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:15
+Forbid: jump-over p111 p112 p113
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:12
+Forbid: jump-over p109 p110 p111
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:17
+Forbid: jump-over p113 p114 p115
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:17
+Forbid: jump-over p113 p114 p115
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:15
+Forbid: jump-over p111 p112 p113
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:19
+Forbid: jump-over p115 p116 p117
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:19
+Forbid: jump-over p115 p116 p117
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:17
+Forbid: jump-over p113 p114 p115
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:21
+Forbid: jump-over p117 p118 p119
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:21
+Forbid: jump-over p117 p118 p119
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:19
+Forbid: jump-over p115 p116 p117
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:23
+Forbid: jump-over p119 p120 p121
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:23
+Forbid: jump-over p119 p120 p121
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:21
+Forbid: jump-over p117 p118 p119
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:26
+Forbid: jump-over p121 p122 p123
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:26
+Forbid: jump-over p121 p122 p123
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:23
+Forbid: jump-over p119 p120 p121
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:28
+Forbid: jump-over p123 p124 p125
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:28
+Forbid: jump-over p123 p124 p125
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:26
+Forbid: jump-over p121 p122 p123
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:30
+Forbid: jump-over p125 p126 p127
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:30
+Forbid: jump-over p125 p126 p127
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:28
+Forbid: jump-over p123 p124 p125
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:32
+Forbid: jump-over p127 p128 p129
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:32
+Forbid: jump-over p127 p128 p129
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:30
+Forbid: jump-over p125 p126 p127
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:34
+Forbid: jump-over p129 p130 p131
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:34
+Forbid: jump-over p129 p130 p131
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:32
+Forbid: jump-over p127 p128 p129
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:37
+Forbid: jump-over p131 p132 p133
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:37
+Forbid: jump-over p131 p132 p133
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:34
+Forbid: jump-over p129 p130 p131
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:39
+Forbid: jump-over p133 p134 p135
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:39
+Forbid: jump-over p133 p134 p135
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:37
+Forbid: jump-over p131 p132 p133
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:41
+Forbid: jump-over p135 p136 p137
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:41
+Forbid: jump-over p135 p136 p137
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:39
+Forbid: jump-over p133 p134 p135
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:43
+Forbid: jump-over p137 p138 p139
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:43
+Forbid: jump-over p137 p138 p139
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:41
+Forbid: jump-over p135 p136 p137
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:45
+Forbid: jump-over p139 p140 p141
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:45
+Forbid: jump-over p139 p140 p141
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:43
+Forbid: jump-over p137 p138 p139
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:48
+Forbid: jump-over p141 p142 p143
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:48
+Forbid: jump-over p141 p142 p143
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:45
+Forbid: jump-over p139 p140 p141
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:50
+Forbid: jump-over p143 p144 p145
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:50
+Forbid: jump-over p143 p144 p145
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:48
+Forbid: jump-over p141 p142 p143
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:52
+Forbid: jump-over p145 p146 p147
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:52
+Forbid: jump-over p145 p146 p147
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:50
+Forbid: jump-over p143 p144 p145
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:54
+Forbid: jump-over p147 p148 p149
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:54
+Forbid: jump-over p147 p148 p149
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:52
+Forbid: jump-over p145 p146 p147
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:56
+Forbid: jump-over p149 p150 p151
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:56
+Forbid: jump-over p149 p150 p151
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:54
+Forbid: jump-over p147 p148 p149
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:59
+Forbid: jump-over p151 p152 p153
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:59
+Forbid: jump-over p151 p152 p153
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:56
+Forbid: jump-over p149 p150 p151
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:61
+Forbid: jump-over p153 p154 p155
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:61
+Forbid: jump-over p153 p154 p155
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:59
+Forbid: jump-over p151 p152 p153
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:63
+Forbid: jump-over p155 p156 p157
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:63
+Forbid: jump-over p155 p156 p157
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:61
+Forbid: jump-over p153 p154 p155
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:65
+Forbid: jump-over p157 p158 p159
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:65
+Forbid: jump-over p157 p158 p159
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:63
+Forbid: jump-over p155 p156 p157
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:67
+Forbid: jump-over p159 p160 p161
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:67
+Forbid: jump-over p159 p160 p161
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:65
+Forbid: jump-over p157 p158 p159
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:70
+Forbid: jump-over p161 p162 p163
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:70
+Forbid: jump-over p161 p162 p163
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:67
+Forbid: jump-over p159 p160 p161
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:72
+Forbid: jump-over p163 p164 p165
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:72
+Forbid: jump-over p163 p164 p165
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:70
+Forbid: jump-over p161 p162 p163
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:74
+Forbid: jump-over p165 p166 p167
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:74
+Forbid: jump-over p165 p166 p167
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:72
+Forbid: jump-over p163 p164 p165
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:76
+Forbid: jump-over p167 p168 p169
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:76
+Forbid: jump-over p167 p168 p169
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:74
+Forbid: jump-over p165 p166 p167
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:78
+Forbid: jump-over p169 p170 p171
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:78
+Forbid: jump-over p169 p170 p171
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:76
+Forbid: jump-over p167 p168 p169
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:81
+Forbid: jump-over p171 p172 p173
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:81
+Forbid: jump-over p171 p172 p173
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:78
+Forbid: jump-over p169 p170 p171
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:83
+Forbid: jump-over p173 p174 p175
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:83
+Forbid: jump-over p173 p174 p175
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:81
+Forbid: jump-over p171 p172 p173
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:85
+Forbid: jump-over p175 p176 p177
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:85
+Forbid: jump-over p175 p176 p177
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:83
+Forbid: jump-over p173 p174 p175
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:87
+Forbid: jump-over p177 p178 p179
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:87
+Forbid: jump-over p177 p178 p179
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:85
+Forbid: jump-over p175 p176 p177
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:89
+Forbid: jump-over p179 p180 p181
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:89
+Forbid: jump-over p179 p180 p181
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:87
+Forbid: jump-over p177 p178 p179
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:92
+Forbid: jump-over p181 p182 p183
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:92
+Forbid: jump-over p181 p182 p183
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:89
+Forbid: jump-over p179 p180 p181
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:94
+Forbid: jump-over p183 p184 p185
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:94
+Forbid: jump-over p183 p184 p185
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:92
+Forbid: jump-over p181 p182 p183
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:96
+Forbid: jump-over p185 p186 p187
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:96
+Forbid: jump-over p185 p186 p187
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:94
+Forbid: jump-over p183 p184 p185
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:98
+Forbid: jump-over p187 p188 p189
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:98
+Forbid: jump-over p187 p188 p189
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:96
+Forbid: jump-over p185 p186 p187
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:100
+Forbid: jump-over p189 p190 p191
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:100
+Forbid: jump-over p189 p190 p191
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:98
+Forbid: jump-over p187 p188 p189
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:103
+Forbid: jump-over p191 p192 p193
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:103
+Forbid: jump-over p191 p192 p193
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:100
+Forbid: jump-over p189 p190 p191
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:105
+Forbid: jump-over p193 p194 p195
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:105
+Forbid: jump-over p193 p194 p195
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:103
+Forbid: jump-over p191 p192 p193
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:107
+Forbid: jump-over p195 p196 p197
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:107
+Forbid: jump-over p195 p196 p197
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:105
+Forbid: jump-over p193 p194 p195
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:109
+Forbid: jump-over p197 p198 p199
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:109
+Forbid: jump-over p197 p198 p199
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:107
+Forbid: jump-over p195 p196 p197
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:111
+Forbid: jump-over p199 p200 p201
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:111
+Forbid: jump-over p199 p200 p201
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:109
+Forbid: jump-over p197 p198 p199
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:115
+Forbid: jump-over p201 p202 p203
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:115
+Forbid: jump-over p201 p202 p203
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:111
+Forbid: jump-over p199 p200 p201
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:117
+Forbid: jump-over p203 p204 p205
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:117
+Forbid: jump-over p203 p204 p205
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:115
+Forbid: jump-over p201 p202 p203
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:119
+Forbid: jump-over p205 p206 p207
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:119
+Forbid: jump-over p205 p206 p207
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:117
+Forbid: jump-over p203 p204 p205
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:121
+Forbid: jump-over p207 p208 p209
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:121
+Forbid: jump-over p207 p208 p209
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:119
+Forbid: jump-over p205 p206 p207
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:123
+Forbid: jump-over p209 p210 p211
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:123
+Forbid: jump-over p209 p210 p211
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:121
+Forbid: jump-over p207 p208 p209
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:126
+Forbid: jump-over p211 p212 p213
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:126
+Forbid: jump-over p211 p212 p213
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:123
+Forbid: jump-over p209 p210 p211
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:128
+Forbid: jump-over p213 p214 p215
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:128
+Forbid: jump-over p213 p214 p215
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:126
+Forbid: jump-over p211 p212 p213
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:130
+Forbid: jump-over p215 p216 p217
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:130
+Forbid: jump-over p215 p216 p217
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:128
+Forbid: jump-over p213 p214 p215
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:132
+Forbid: jump-over p217 p218 p219
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:132
+Forbid: jump-over p217 p218 p219
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:130
+Forbid: jump-over p215 p216 p217
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:134
+Forbid: jump-over p219 p220 p221
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:134
+Forbid: jump-over p219 p220 p221
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:132
+Forbid: jump-over p217 p218 p219
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:137
+Forbid: jump-over p221 p222 p223
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:137
+Forbid: jump-over p221 p222 p223
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:134
+Forbid: jump-over p219 p220 p221
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:139
+Forbid: jump-over p223 p224 p225
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:139
+Forbid: jump-over p223 p224 p225
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:137
+Forbid: jump-over p221 p222 p223
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:141
+Forbid: jump-over p225 p226 p227
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:141
+Forbid: jump-over p225 p226 p227
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:139
+Forbid: jump-over p223 p224 p225
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:143
+Forbid: jump-over p227 p228 p229
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:143
+Forbid: jump-over p227 p228 p229
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:141
+Forbid: jump-over p225 p226 p227
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:145
+Forbid: jump-over p229 p230 p231
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:145
+Forbid: jump-over p229 p230 p231
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:143
+Forbid: jump-over p227 p228 p229
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:148
+Forbid: jump-over p231 p232 p233
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:148
+Forbid: jump-over p231 p232 p233
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:145
+Forbid: jump-over p229 p230 p231
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:150
+Forbid: jump-over p233 p234 p235
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:150
+Forbid: jump-over p233 p234 p235
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:148
+Forbid: jump-over p231 p232 p233
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:152
+Forbid: jump-over p235 p236 p237
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:152
+Forbid: jump-over p235 p236 p237
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:150
+Forbid: jump-over p233 p234 p235
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:154
+Forbid: jump-over p237 p238 p239
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:154
+Forbid: jump-over p237 p238 p239
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:152
+Forbid: jump-over p235 p236 p237
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:156
+Forbid: jump-over p239 p240 p241
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:156
+Forbid: jump-over p239 p240 p241
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:154
+Forbid: jump-over p237 p238 p239
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:159
+Forbid: jump-over p241 p242 p243
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:159
+Forbid: jump-over p241 p242 p243
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:156
+Forbid: jump-over p239 p240 p241
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:161
+Forbid: jump-over p243 p244 p245
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:161
+Forbid: jump-over p243 p244 p245
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:159
+Forbid: jump-over p241 p242 p243
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:163
+Forbid: jump-over p245 p246 p247
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:163
+Forbid: jump-over p245 p246 p247
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:161
+Forbid: jump-over p243 p244 p245
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:165
+Forbid: jump-over p247 p248 p249
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:165
+Forbid: jump-over p247 p248 p249
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:163
+Forbid: jump-over p245 p246 p247
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:167
+Forbid: jump-over p249 p250 p251
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:167
+Forbid: jump-over p249 p250 p251
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:165
+Forbid: jump-over p247 p248 p249
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:170
+Forbid: jump-over p251 p252 p253
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:170
+Forbid: jump-over p251 p252 p253
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:167
+Forbid: jump-over p249 p250 p251
+
+If holds: var0:1 var2:0 var1:172
+Forbid: jump-over p253 p254 p255
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:172
+Forbid: jump-over p253 p254 p255
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:170
+Forbid: jump-over p251 p252 p253
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:1
+Forbid: jump-over p1 p2 p3
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:1
+Forbid: jump-over p1 p2 p3
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:1
+Forbid: jump-over p1 p2 p3
+
+If holds: var0:1 var2:0 var1:0
+Forbid: jump-over p0 p1 p2
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:179
+Forbid: jump-over p3 p4 p5
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:1
+Forbid: jump-over p1 p2 p3
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:179
+Forbid: jump-over p3 p4 p5
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:179
+Forbid: jump-over p3 p4 p5
+
+If holds: var0:1 var2:0 var1:112
+Forbid: jump-over p2 p3 p4
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:201
+Forbid: jump-over p5 p6 p7
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:179
+Forbid: jump-over p3 p4 p5
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:201
+Forbid: jump-over p5 p6 p7
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:201
+Forbid: jump-over p5 p6 p7
+
+If holds: var0:1 var2:0 var1:190
+Forbid: jump-over p4 p5 p6
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:223
+Forbid: jump-over p7 p8 p9
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:201
+Forbid: jump-over p5 p6 p7
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:223
+Forbid: jump-over p7 p8 p9
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:223
+Forbid: jump-over p7 p8 p9
+
+If holds: var0:1 var2:0 var1:212
+Forbid: jump-over p6 p7 p8
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:245
+Forbid: jump-over p9 p10 p11
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:223
+Forbid: jump-over p7 p8 p9
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:245
+Forbid: jump-over p9 p10 p11
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:245
+Forbid: jump-over p9 p10 p11
+
+If holds: var0:1 var2:0 var1:234
+Forbid: jump-over p8 p9 p10
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:13
+Forbid: jump-over p11 p12 p13
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:245
+Forbid: jump-over p9 p10 p11
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:13
+Forbid: jump-over p11 p12 p13
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:13
+Forbid: jump-over p11 p12 p13
+
+If holds: var0:1 var2:0 var1:2
+Forbid: jump-over p10 p11 p12
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:35
+Forbid: jump-over p13 p14 p15
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:13
+Forbid: jump-over p11 p12 p13
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:35
+Forbid: jump-over p13 p14 p15
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:35
+Forbid: jump-over p13 p14 p15
+
+If holds: var0:1 var2:0 var1:24
+Forbid: jump-over p12 p13 p14
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:57
+Forbid: jump-over p15 p16 p17
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:35
+Forbid: jump-over p13 p14 p15
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:57
+Forbid: jump-over p15 p16 p17
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:57
+Forbid: jump-over p15 p16 p17
+
+If holds: var0:1 var2:0 var1:46
+Forbid: jump-over p14 p15 p16
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:79
+Forbid: jump-over p17 p18 p19
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:57
+Forbid: jump-over p15 p16 p17
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:79
+Forbid: jump-over p17 p18 p19
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:79
+Forbid: jump-over p17 p18 p19
+
+If holds: var0:1 var2:0 var1:68
+Forbid: jump-over p16 p17 p18
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:101
+Forbid: jump-over p19 p20 p21
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:79
+Forbid: jump-over p17 p18 p19
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:101
+Forbid: jump-over p19 p20 p21
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:101
+Forbid: jump-over p19 p20 p21
+
+If holds: var0:1 var2:0 var1:90
+Forbid: jump-over p18 p19 p20
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:124
+Forbid: jump-over p21 p22 p23
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:101
+Forbid: jump-over p19 p20 p21
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:124
+Forbid: jump-over p21 p22 p23
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:124
+Forbid: jump-over p21 p22 p23
+
+If holds: var0:1 var2:0 var1:113
+Forbid: jump-over p20 p21 p22
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:146
+Forbid: jump-over p23 p24 p25
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:124
+Forbid: jump-over p21 p22 p23
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:146
+Forbid: jump-over p23 p24 p25
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:146
+Forbid: jump-over p23 p24 p25
+
+If holds: var0:1 var2:0 var1:135
+Forbid: jump-over p22 p23 p24
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:168
+Forbid: jump-over p25 p26 p27
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:146
+Forbid: jump-over p23 p24 p25
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:168
+Forbid: jump-over p25 p26 p27
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:168
+Forbid: jump-over p25 p26 p27
+
+If holds: var0:1 var2:0 var1:157
+Forbid: jump-over p24 p25 p26
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:176
+Forbid: jump-over p27 p28 p29
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:168
+Forbid: jump-over p25 p26 p27
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:176
+Forbid: jump-over p27 p28 p29
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:176
+Forbid: jump-over p27 p28 p29
+
+If holds: var0:1 var2:0 var1:175
+Forbid: jump-over p26 p27 p28
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:178
+Forbid: jump-over p29 p30 p31
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:176
+Forbid: jump-over p27 p28 p29
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:178
+Forbid: jump-over p29 p30 p31
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:178
+Forbid: jump-over p29 p30 p31
+
+If holds: var0:1 var2:0 var1:177
+Forbid: jump-over p28 p29 p30
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:181
+Forbid: jump-over p31 p32 p33
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:178
+Forbid: jump-over p29 p30 p31
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:181
+Forbid: jump-over p31 p32 p33
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:181
+Forbid: jump-over p31 p32 p33
+
+If holds: var0:1 var2:0 var1:180
+Forbid: jump-over p30 p31 p32
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:183
+Forbid: jump-over p33 p34 p35
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:181
+Forbid: jump-over p31 p32 p33
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:183
+Forbid: jump-over p33 p34 p35
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:183
+Forbid: jump-over p33 p34 p35
+
+If holds: var0:1 var2:0 var1:182
+Forbid: jump-over p32 p33 p34
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:185
+Forbid: jump-over p35 p36 p37
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:183
+Forbid: jump-over p33 p34 p35
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:185
+Forbid: jump-over p35 p36 p37
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:185
+Forbid: jump-over p35 p36 p37
+
+If holds: var0:1 var2:0 var1:184
+Forbid: jump-over p34 p35 p36
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:187
+Forbid: jump-over p37 p38 p39
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:185
+Forbid: jump-over p35 p36 p37
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:187
+Forbid: jump-over p37 p38 p39
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:187
+Forbid: jump-over p37 p38 p39
+
+If holds: var0:1 var2:0 var1:186
+Forbid: jump-over p36 p37 p38
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:189
+Forbid: jump-over p39 p40 p41
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:187
+Forbid: jump-over p37 p38 p39
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:189
+Forbid: jump-over p39 p40 p41
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:189
+Forbid: jump-over p39 p40 p41
+
+If holds: var0:1 var2:0 var1:188
+Forbid: jump-over p38 p39 p40
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:192
+Forbid: jump-over p41 p42 p43
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:189
+Forbid: jump-over p39 p40 p41
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:192
+Forbid: jump-over p41 p42 p43
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:192
+Forbid: jump-over p41 p42 p43
+
+If holds: var0:1 var2:0 var1:191
+Forbid: jump-over p40 p41 p42
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:194
+Forbid: jump-over p43 p44 p45
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:192
+Forbid: jump-over p41 p42 p43
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:194
+Forbid: jump-over p43 p44 p45
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:194
+Forbid: jump-over p43 p44 p45
+
+If holds: var0:1 var2:0 var1:193
+Forbid: jump-over p42 p43 p44
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:196
+Forbid: jump-over p45 p46 p47
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:194
+Forbid: jump-over p43 p44 p45
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:196
+Forbid: jump-over p45 p46 p47
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:196
+Forbid: jump-over p45 p46 p47
+
+If holds: var0:1 var2:0 var1:195
+Forbid: jump-over p44 p45 p46
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:198
+Forbid: jump-over p47 p48 p49
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:196
+Forbid: jump-over p45 p46 p47
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:198
+Forbid: jump-over p47 p48 p49
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:198
+Forbid: jump-over p47 p48 p49
+
+If holds: var0:1 var2:0 var1:197
+Forbid: jump-over p46 p47 p48
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:200
+Forbid: jump-over p49 p50 p51
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:198
+Forbid: jump-over p47 p48 p49
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:200
+Forbid: jump-over p49 p50 p51
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:200
+Forbid: jump-over p49 p50 p51
+
+If holds: var0:1 var2:0 var1:199
+Forbid: jump-over p48 p49 p50
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:203
+Forbid: jump-over p51 p52 p53
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:200
+Forbid: jump-over p49 p50 p51
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:203
+Forbid: jump-over p51 p52 p53
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:203
+Forbid: jump-over p51 p52 p53
+
+If holds: var0:1 var2:0 var1:202
+Forbid: jump-over p50 p51 p52
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:205
+Forbid: jump-over p53 p54 p55
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:203
+Forbid: jump-over p51 p52 p53
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:205
+Forbid: jump-over p53 p54 p55
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:205
+Forbid: jump-over p53 p54 p55
+
+If holds: var0:1 var2:0 var1:204
+Forbid: jump-over p52 p53 p54
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:207
+Forbid: jump-over p55 p56 p57
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:205
+Forbid: jump-over p53 p54 p55
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:207
+Forbid: jump-over p55 p56 p57
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:207
+Forbid: jump-over p55 p56 p57
+
+If holds: var0:1 var2:0 var1:206
+Forbid: jump-over p54 p55 p56
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:209
+Forbid: jump-over p57 p58 p59
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:207
+Forbid: jump-over p55 p56 p57
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:209
+Forbid: jump-over p57 p58 p59
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:209
+Forbid: jump-over p57 p58 p59
+
+If holds: var0:1 var2:0 var1:208
+Forbid: jump-over p56 p57 p58
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:211
+Forbid: jump-over p59 p60 p61
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:209
+Forbid: jump-over p57 p58 p59
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:211
+Forbid: jump-over p59 p60 p61
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:211
+Forbid: jump-over p59 p60 p61
+
+If holds: var0:1 var2:0 var1:210
+Forbid: jump-over p58 p59 p60
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:214
+Forbid: jump-over p61 p62 p63
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:211
+Forbid: jump-over p59 p60 p61
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:214
+Forbid: jump-over p61 p62 p63
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:214
+Forbid: jump-over p61 p62 p63
+
+If holds: var0:1 var2:0 var1:213
+Forbid: jump-over p60 p61 p62
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:216
+Forbid: jump-over p63 p64 p65
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:214
+Forbid: jump-over p61 p62 p63
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:216
+Forbid: jump-over p63 p64 p65
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:216
+Forbid: jump-over p63 p64 p65
+
+If holds: var0:1 var2:0 var1:215
+Forbid: jump-over p62 p63 p64
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:218
+Forbid: jump-over p65 p66 p67
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:216
+Forbid: jump-over p63 p64 p65
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:218
+Forbid: jump-over p65 p66 p67
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:218
+Forbid: jump-over p65 p66 p67
+
+If holds: var0:1 var2:0 var1:217
+Forbid: jump-over p64 p65 p66
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:220
+Forbid: jump-over p67 p68 p69
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:218
+Forbid: jump-over p65 p66 p67
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:220
+Forbid: jump-over p67 p68 p69
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:220
+Forbid: jump-over p67 p68 p69
+
+If holds: var0:1 var2:0 var1:219
+Forbid: jump-over p66 p67 p68
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:222
+Forbid: jump-over p69 p70 p71
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:220
+Forbid: jump-over p67 p68 p69
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:222
+Forbid: jump-over p69 p70 p71
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:222
+Forbid: jump-over p69 p70 p71
+
+If holds: var0:1 var2:0 var1:221
+Forbid: jump-over p68 p69 p70
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:225
+Forbid: jump-over p71 p72 p73
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:222
+Forbid: jump-over p69 p70 p71
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:225
+Forbid: jump-over p71 p72 p73
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:225
+Forbid: jump-over p71 p72 p73
+
+If holds: var0:1 var2:0 var1:224
+Forbid: jump-over p70 p71 p72
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:227
+Forbid: jump-over p73 p74 p75
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:225
+Forbid: jump-over p71 p72 p73
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:227
+Forbid: jump-over p73 p74 p75
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:227
+Forbid: jump-over p73 p74 p75
+
+If holds: var0:1 var2:0 var1:226
+Forbid: jump-over p72 p73 p74
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:229
+Forbid: jump-over p75 p76 p77
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:227
+Forbid: jump-over p73 p74 p75
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:229
+Forbid: jump-over p75 p76 p77
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:229
+Forbid: jump-over p75 p76 p77
+
+If holds: var0:1 var2:0 var1:228
+Forbid: jump-over p74 p75 p76
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:231
+Forbid: jump-over p77 p78 p79
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:229
+Forbid: jump-over p75 p76 p77
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:231
+Forbid: jump-over p77 p78 p79
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:231
+Forbid: jump-over p77 p78 p79
+
+If holds: var0:1 var2:0 var1:230
+Forbid: jump-over p76 p77 p78
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:233
+Forbid: jump-over p79 p80 p81
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:231
+Forbid: jump-over p77 p78 p79
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:233
+Forbid: jump-over p79 p80 p81
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:233
+Forbid: jump-over p79 p80 p81
+
+If holds: var0:1 var2:0 var1:232
+Forbid: jump-over p78 p79 p80
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:236
+Forbid: jump-over p81 p82 p83
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:233
+Forbid: jump-over p79 p80 p81
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:236
+Forbid: jump-over p81 p82 p83
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:236
+Forbid: jump-over p81 p82 p83
+
+If holds: var0:1 var2:0 var1:235
+Forbid: jump-over p80 p81 p82
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:238
+Forbid: jump-over p83 p84 p85
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:236
+Forbid: jump-over p81 p82 p83
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:238
+Forbid: jump-over p83 p84 p85
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:238
+Forbid: jump-over p83 p84 p85
+
+If holds: var0:1 var2:0 var1:237
+Forbid: jump-over p82 p83 p84
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:240
+Forbid: jump-over p85 p86 p87
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:238
+Forbid: jump-over p83 p84 p85
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:240
+Forbid: jump-over p85 p86 p87
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:240
+Forbid: jump-over p85 p86 p87
+
+If holds: var0:1 var2:0 var1:239
+Forbid: jump-over p84 p85 p86
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:242
+Forbid: jump-over p87 p88 p89
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:240
+Forbid: jump-over p85 p86 p87
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:242
+Forbid: jump-over p87 p88 p89
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:242
+Forbid: jump-over p87 p88 p89
+
+If holds: var0:1 var2:0 var1:241
+Forbid: jump-over p86 p87 p88
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:244
+Forbid: jump-over p89 p90 p91
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:242
+Forbid: jump-over p87 p88 p89
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:244
+Forbid: jump-over p89 p90 p91
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:244
+Forbid: jump-over p89 p90 p91
+
+If holds: var0:1 var2:0 var1:243
+Forbid: jump-over p88 p89 p90
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:247
+Forbid: jump-over p91 p92 p93
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:244
+Forbid: jump-over p89 p90 p91
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:247
+Forbid: jump-over p91 p92 p93
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:247
+Forbid: jump-over p91 p92 p93
+
+If holds: var0:1 var2:0 var1:246
+Forbid: jump-over p90 p91 p92
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:249
+Forbid: jump-over p93 p94 p95
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:247
+Forbid: jump-over p91 p92 p93
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:249
+Forbid: jump-over p93 p94 p95
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:249
+Forbid: jump-over p93 p94 p95
+
+If holds: var0:1 var2:0 var1:248
+Forbid: jump-over p92 p93 p94
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:251
+Forbid: jump-over p95 p96 p97
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:249
+Forbid: jump-over p93 p94 p95
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:251
+Forbid: jump-over p95 p96 p97
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:251
+Forbid: jump-over p95 p96 p97
+
+If holds: var0:1 var2:0 var1:250
+Forbid: jump-over p94 p95 p96
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:253
+Forbid: jump-over p97 p98 p99
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:251
+Forbid: jump-over p95 p96 p97
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:253
+Forbid: jump-over p97 p98 p99
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:253
+Forbid: jump-over p97 p98 p99
+
+If holds: var0:1 var2:0 var1:252
+Forbid: jump-over p96 p97 p98
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:255
+Forbid: jump-over p99 p100 p101
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:253
+Forbid: jump-over p97 p98 p99
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:255
+Forbid: jump-over p99 p100 p101
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:255
+Forbid: jump-over p99 p100 p101
+
+If holds: var0:1 var2:0 var1:254
+Forbid: jump-over p98 p99 p100
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:4
+Forbid: jump-over p101 p102 p103
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:255
+Forbid: jump-over p99 p100 p101
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:4
+Forbid: jump-over p101 p102 p103
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:4
+Forbid: jump-over p101 p102 p103
+
+If holds: var0:1 var2:0 var1:3
+Forbid: jump-over p100 p101 p102
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:6
+Forbid: jump-over p103 p104 p105
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:4
+Forbid: jump-over p101 p102 p103
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:6
+Forbid: jump-over p103 p104 p105
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:6
+Forbid: jump-over p103 p104 p105
+
+If holds: var0:1 var2:0 var1:5
+Forbid: jump-over p102 p103 p104
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:8
+Forbid: jump-over p105 p106 p107
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:6
+Forbid: jump-over p103 p104 p105
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:8
+Forbid: jump-over p105 p106 p107
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:8
+Forbid: jump-over p105 p106 p107
+
+If holds: var0:1 var2:0 var1:7
+Forbid: jump-over p104 p105 p106
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:10
+Forbid: jump-over p107 p108 p109
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:8
+Forbid: jump-over p105 p106 p107
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:10
+Forbid: jump-over p107 p108 p109
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:10
+Forbid: jump-over p107 p108 p109
+
+If holds: var0:1 var2:0 var1:9
+Forbid: jump-over p106 p107 p108
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:12
+Forbid: jump-over p109 p110 p111
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:10
+Forbid: jump-over p107 p108 p109
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:12
+Forbid: jump-over p109 p110 p111
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:12
+Forbid: jump-over p109 p110 p111
+
+If holds: var0:1 var2:0 var1:11
+Forbid: jump-over p108 p109 p110
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:15
+Forbid: jump-over p111 p112 p113
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:12
+Forbid: jump-over p109 p110 p111
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:15
+Forbid: jump-over p111 p112 p113
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:15
+Forbid: jump-over p111 p112 p113
+
+If holds: var0:1 var2:0 var1:14
+Forbid: jump-over p110 p111 p112
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:17
+Forbid: jump-over p113 p114 p115
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:15
+Forbid: jump-over p111 p112 p113
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:17
+Forbid: jump-over p113 p114 p115
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:17
+Forbid: jump-over p113 p114 p115
+
+If holds: var0:1 var2:0 var1:16
+Forbid: jump-over p112 p113 p114
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:19
+Forbid: jump-over p115 p116 p117
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:17
+Forbid: jump-over p113 p114 p115
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:19
+Forbid: jump-over p115 p116 p117
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:19
+Forbid: jump-over p115 p116 p117
+
+If holds: var0:1 var2:0 var1:18
+Forbid: jump-over p114 p115 p116
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:21
+Forbid: jump-over p117 p118 p119
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:19
+Forbid: jump-over p115 p116 p117
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:21
+Forbid: jump-over p117 p118 p119
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:21
+Forbid: jump-over p117 p118 p119
+
+If holds: var0:1 var2:0 var1:20
+Forbid: jump-over p116 p117 p118
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:23
+Forbid: jump-over p119 p120 p121
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:21
+Forbid: jump-over p117 p118 p119
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:23
+Forbid: jump-over p119 p120 p121
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:23
+Forbid: jump-over p119 p120 p121
+
+If holds: var0:1 var2:0 var1:22
+Forbid: jump-over p118 p119 p120
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:26
+Forbid: jump-over p121 p122 p123
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:23
+Forbid: jump-over p119 p120 p121
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:26
+Forbid: jump-over p121 p122 p123
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:26
+Forbid: jump-over p121 p122 p123
+
+If holds: var0:1 var2:0 var1:25
+Forbid: jump-over p120 p121 p122
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:28
+Forbid: jump-over p123 p124 p125
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:26
+Forbid: jump-over p121 p122 p123
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:28
+Forbid: jump-over p123 p124 p125
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:28
+Forbid: jump-over p123 p124 p125
+
+If holds: var0:1 var2:0 var1:27
+Forbid: jump-over p122 p123 p124
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:30
+Forbid: jump-over p125 p126 p127
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:28
+Forbid: jump-over p123 p124 p125
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:30
+Forbid: jump-over p125 p126 p127
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:30
+Forbid: jump-over p125 p126 p127
+
+If holds: var0:1 var2:0 var1:29
+Forbid: jump-over p124 p125 p126
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:32
+Forbid: jump-over p127 p128 p129
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:30
+Forbid: jump-over p125 p126 p127
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:32
+Forbid: jump-over p127 p128 p129
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:32
+Forbid: jump-over p127 p128 p129
+
+If holds: var0:1 var2:0 var1:31
+Forbid: jump-over p126 p127 p128
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:34
+Forbid: jump-over p129 p130 p131
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:32
+Forbid: jump-over p127 p128 p129
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:34
+Forbid: jump-over p129 p130 p131
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:34
+Forbid: jump-over p129 p130 p131
+
+If holds: var0:1 var2:0 var1:33
+Forbid: jump-over p128 p129 p130
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:37
+Forbid: jump-over p131 p132 p133
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:34
+Forbid: jump-over p129 p130 p131
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:37
+Forbid: jump-over p131 p132 p133
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:37
+Forbid: jump-over p131 p132 p133
+
+If holds: var0:1 var2:0 var1:36
+Forbid: jump-over p130 p131 p132
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:39
+Forbid: jump-over p133 p134 p135
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:37
+Forbid: jump-over p131 p132 p133
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:39
+Forbid: jump-over p133 p134 p135
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:39
+Forbid: jump-over p133 p134 p135
+
+If holds: var0:1 var2:0 var1:38
+Forbid: jump-over p132 p133 p134
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:41
+Forbid: jump-over p135 p136 p137
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:39
+Forbid: jump-over p133 p134 p135
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:41
+Forbid: jump-over p135 p136 p137
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:41
+Forbid: jump-over p135 p136 p137
+
+If holds: var0:1 var2:0 var1:40
+Forbid: jump-over p134 p135 p136
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:43
+Forbid: jump-over p137 p138 p139
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:41
+Forbid: jump-over p135 p136 p137
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:43
+Forbid: jump-over p137 p138 p139
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:43
+Forbid: jump-over p137 p138 p139
+
+If holds: var0:1 var2:0 var1:42
+Forbid: jump-over p136 p137 p138
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:45
+Forbid: jump-over p139 p140 p141
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:43
+Forbid: jump-over p137 p138 p139
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:45
+Forbid: jump-over p139 p140 p141
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:45
+Forbid: jump-over p139 p140 p141
+
+If holds: var0:1 var2:0 var1:44
+Forbid: jump-over p138 p139 p140
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:48
+Forbid: jump-over p141 p142 p143
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:45
+Forbid: jump-over p139 p140 p141
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:48
+Forbid: jump-over p141 p142 p143
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:48
+Forbid: jump-over p141 p142 p143
+
+If holds: var0:1 var2:0 var1:47
+Forbid: jump-over p140 p141 p142
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:50
+Forbid: jump-over p143 p144 p145
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:48
+Forbid: jump-over p141 p142 p143
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:50
+Forbid: jump-over p143 p144 p145
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:50
+Forbid: jump-over p143 p144 p145
+
+If holds: var0:1 var2:0 var1:49
+Forbid: jump-over p142 p143 p144
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:52
+Forbid: jump-over p145 p146 p147
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:50
+Forbid: jump-over p143 p144 p145
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:52
+Forbid: jump-over p145 p146 p147
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:52
+Forbid: jump-over p145 p146 p147
+
+If holds: var0:1 var2:0 var1:51
+Forbid: jump-over p144 p145 p146
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:54
+Forbid: jump-over p147 p148 p149
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:52
+Forbid: jump-over p145 p146 p147
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:54
+Forbid: jump-over p147 p148 p149
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:54
+Forbid: jump-over p147 p148 p149
+
+If holds: var0:1 var2:0 var1:53
+Forbid: jump-over p146 p147 p148
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:56
+Forbid: jump-over p149 p150 p151
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:54
+Forbid: jump-over p147 p148 p149
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:56
+Forbid: jump-over p149 p150 p151
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:56
+Forbid: jump-over p149 p150 p151
+
+If holds: var0:1 var2:0 var1:55
+Forbid: jump-over p148 p149 p150
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:59
+Forbid: jump-over p151 p152 p153
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:56
+Forbid: jump-over p149 p150 p151
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:59
+Forbid: jump-over p151 p152 p153
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:59
+Forbid: jump-over p151 p152 p153
+
+If holds: var0:1 var2:0 var1:58
+Forbid: jump-over p150 p151 p152
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:61
+Forbid: jump-over p153 p154 p155
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:59
+Forbid: jump-over p151 p152 p153
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:61
+Forbid: jump-over p153 p154 p155
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:61
+Forbid: jump-over p153 p154 p155
+
+If holds: var0:1 var2:0 var1:60
+Forbid: jump-over p152 p153 p154
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:63
+Forbid: jump-over p155 p156 p157
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:61
+Forbid: jump-over p153 p154 p155
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:63
+Forbid: jump-over p155 p156 p157
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:63
+Forbid: jump-over p155 p156 p157
+
+If holds: var0:1 var2:0 var1:62
+Forbid: jump-over p154 p155 p156
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:65
+Forbid: jump-over p157 p158 p159
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:63
+Forbid: jump-over p155 p156 p157
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:65
+Forbid: jump-over p157 p158 p159
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:65
+Forbid: jump-over p157 p158 p159
+
+If holds: var0:1 var2:0 var1:64
+Forbid: jump-over p156 p157 p158
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:67
+Forbid: jump-over p159 p160 p161
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:65
+Forbid: jump-over p157 p158 p159
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:67
+Forbid: jump-over p159 p160 p161
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:67
+Forbid: jump-over p159 p160 p161
+
+If holds: var0:1 var2:0 var1:66
+Forbid: jump-over p158 p159 p160
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:70
+Forbid: jump-over p161 p162 p163
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:67
+Forbid: jump-over p159 p160 p161
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:70
+Forbid: jump-over p161 p162 p163
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:70
+Forbid: jump-over p161 p162 p163
+
+If holds: var0:1 var2:0 var1:69
+Forbid: jump-over p160 p161 p162
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:72
+Forbid: jump-over p163 p164 p165
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:70
+Forbid: jump-over p161 p162 p163
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:72
+Forbid: jump-over p163 p164 p165
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:72
+Forbid: jump-over p163 p164 p165
+
+If holds: var0:1 var2:0 var1:71
+Forbid: jump-over p162 p163 p164
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:74
+Forbid: jump-over p165 p166 p167
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:72
+Forbid: jump-over p163 p164 p165
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:74
+Forbid: jump-over p165 p166 p167
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:74
+Forbid: jump-over p165 p166 p167
+
+If holds: var0:1 var2:0 var1:73
+Forbid: jump-over p164 p165 p166
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:76
+Forbid: jump-over p167 p168 p169
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:74
+Forbid: jump-over p165 p166 p167
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:76
+Forbid: jump-over p167 p168 p169
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:76
+Forbid: jump-over p167 p168 p169
+
+If holds: var0:1 var2:0 var1:75
+Forbid: jump-over p166 p167 p168
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:78
+Forbid: jump-over p169 p170 p171
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:76
+Forbid: jump-over p167 p168 p169
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:78
+Forbid: jump-over p169 p170 p171
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:78
+Forbid: jump-over p169 p170 p171
+
+If holds: var0:1 var2:0 var1:77
+Forbid: jump-over p168 p169 p170
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:81
+Forbid: jump-over p171 p172 p173
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:78
+Forbid: jump-over p169 p170 p171
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:81
+Forbid: jump-over p171 p172 p173
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:81
+Forbid: jump-over p171 p172 p173
+
+If holds: var0:1 var2:0 var1:80
+Forbid: jump-over p170 p171 p172
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:83
+Forbid: jump-over p173 p174 p175
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:81
+Forbid: jump-over p171 p172 p173
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:83
+Forbid: jump-over p173 p174 p175
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:83
+Forbid: jump-over p173 p174 p175
+
+If holds: var0:1 var2:0 var1:82
+Forbid: jump-over p172 p173 p174
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:85
+Forbid: jump-over p175 p176 p177
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:83
+Forbid: jump-over p173 p174 p175
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:85
+Forbid: jump-over p175 p176 p177
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:85
+Forbid: jump-over p175 p176 p177
+
+If holds: var0:1 var2:0 var1:84
+Forbid: jump-over p174 p175 p176
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:87
+Forbid: jump-over p177 p178 p179
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:85
+Forbid: jump-over p175 p176 p177
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:87
+Forbid: jump-over p177 p178 p179
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:87
+Forbid: jump-over p177 p178 p179
+
+If holds: var0:1 var2:0 var1:86
+Forbid: jump-over p176 p177 p178
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:89
+Forbid: jump-over p179 p180 p181
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:87
+Forbid: jump-over p177 p178 p179
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:89
+Forbid: jump-over p179 p180 p181
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:89
+Forbid: jump-over p179 p180 p181
+
+If holds: var0:1 var2:0 var1:88
+Forbid: jump-over p178 p179 p180
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:92
+Forbid: jump-over p181 p182 p183
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:89
+Forbid: jump-over p179 p180 p181
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:92
+Forbid: jump-over p181 p182 p183
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:92
+Forbid: jump-over p181 p182 p183
+
+If holds: var0:1 var2:0 var1:91
+Forbid: jump-over p180 p181 p182
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:94
+Forbid: jump-over p183 p184 p185
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:92
+Forbid: jump-over p181 p182 p183
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:94
+Forbid: jump-over p183 p184 p185
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:94
+Forbid: jump-over p183 p184 p185
+
+If holds: var0:1 var2:0 var1:93
+Forbid: jump-over p182 p183 p184
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:96
+Forbid: jump-over p185 p186 p187
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:94
+Forbid: jump-over p183 p184 p185
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:96
+Forbid: jump-over p185 p186 p187
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:96
+Forbid: jump-over p185 p186 p187
+
+If holds: var0:1 var2:0 var1:95
+Forbid: jump-over p184 p185 p186
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:98
+Forbid: jump-over p187 p188 p189
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:96
+Forbid: jump-over p185 p186 p187
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:98
+Forbid: jump-over p187 p188 p189
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:98
+Forbid: jump-over p187 p188 p189
+
+If holds: var0:1 var2:0 var1:97
+Forbid: jump-over p186 p187 p188
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:100
+Forbid: jump-over p189 p190 p191
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:98
+Forbid: jump-over p187 p188 p189
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:100
+Forbid: jump-over p189 p190 p191
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:100
+Forbid: jump-over p189 p190 p191
+
+If holds: var0:1 var2:0 var1:99
+Forbid: jump-over p188 p189 p190
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:103
+Forbid: jump-over p191 p192 p193
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:100
+Forbid: jump-over p189 p190 p191
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:103
+Forbid: jump-over p191 p192 p193
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:103
+Forbid: jump-over p191 p192 p193
+
+If holds: var0:1 var2:0 var1:102
+Forbid: jump-over p190 p191 p192
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:105
+Forbid: jump-over p193 p194 p195
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:103
+Forbid: jump-over p191 p192 p193
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:105
+Forbid: jump-over p193 p194 p195
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:105
+Forbid: jump-over p193 p194 p195
+
+If holds: var0:1 var2:0 var1:104
+Forbid: jump-over p192 p193 p194
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:107
+Forbid: jump-over p195 p196 p197
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:105
+Forbid: jump-over p193 p194 p195
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:107
+Forbid: jump-over p195 p196 p197
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:107
+Forbid: jump-over p195 p196 p197
+
+If holds: var0:1 var2:0 var1:106
+Forbid: jump-over p194 p195 p196
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:109
+Forbid: jump-over p197 p198 p199
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:107
+Forbid: jump-over p195 p196 p197
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:109
+Forbid: jump-over p197 p198 p199
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:109
+Forbid: jump-over p197 p198 p199
+
+If holds: var0:1 var2:0 var1:108
+Forbid: jump-over p196 p197 p198
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:111
+Forbid: jump-over p199 p200 p201
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:109
+Forbid: jump-over p197 p198 p199
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:111
+Forbid: jump-over p199 p200 p201
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:111
+Forbid: jump-over p199 p200 p201
+
+If holds: var0:1 var2:0 var1:110
+Forbid: jump-over p198 p199 p200
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:115
+Forbid: jump-over p201 p202 p203
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:111
+Forbid: jump-over p199 p200 p201
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:115
+Forbid: jump-over p201 p202 p203
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:115
+Forbid: jump-over p201 p202 p203
+
+If holds: var0:1 var2:0 var1:114
+Forbid: jump-over p200 p201 p202
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:117
+Forbid: jump-over p203 p204 p205
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:115
+Forbid: jump-over p201 p202 p203
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:117
+Forbid: jump-over p203 p204 p205
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:117
+Forbid: jump-over p203 p204 p205
+
+If holds: var0:1 var2:0 var1:116
+Forbid: jump-over p202 p203 p204
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:119
+Forbid: jump-over p205 p206 p207
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:117
+Forbid: jump-over p203 p204 p205
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:119
+Forbid: jump-over p205 p206 p207
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:119
+Forbid: jump-over p205 p206 p207
+
+If holds: var0:1 var2:0 var1:118
+Forbid: jump-over p204 p205 p206
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:121
+Forbid: jump-over p207 p208 p209
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:119
+Forbid: jump-over p205 p206 p207
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:121
+Forbid: jump-over p207 p208 p209
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:121
+Forbid: jump-over p207 p208 p209
+
+If holds: var0:1 var2:0 var1:120
+Forbid: jump-over p206 p207 p208
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:123
+Forbid: jump-over p209 p210 p211
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:121
+Forbid: jump-over p207 p208 p209
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:123
+Forbid: jump-over p209 p210 p211
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:123
+Forbid: jump-over p209 p210 p211
+
+If holds: var0:1 var2:0 var1:122
+Forbid: jump-over p208 p209 p210
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:126
+Forbid: jump-over p211 p212 p213
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:123
+Forbid: jump-over p209 p210 p211
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:126
+Forbid: jump-over p211 p212 p213
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:126
+Forbid: jump-over p211 p212 p213
+
+If holds: var0:1 var2:0 var1:125
+Forbid: jump-over p210 p211 p212
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:128
+Forbid: jump-over p213 p214 p215
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:126
+Forbid: jump-over p211 p212 p213
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:128
+Forbid: jump-over p213 p214 p215
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:128
+Forbid: jump-over p213 p214 p215
+
+If holds: var0:1 var2:0 var1:127
+Forbid: jump-over p212 p213 p214
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:130
+Forbid: jump-over p215 p216 p217
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:128
+Forbid: jump-over p213 p214 p215
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:130
+Forbid: jump-over p215 p216 p217
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:130
+Forbid: jump-over p215 p216 p217
+
+If holds: var0:1 var2:0 var1:129
+Forbid: jump-over p214 p215 p216
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:132
+Forbid: jump-over p217 p218 p219
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:130
+Forbid: jump-over p215 p216 p217
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:132
+Forbid: jump-over p217 p218 p219
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:132
+Forbid: jump-over p217 p218 p219
+
+If holds: var0:1 var2:0 var1:131
+Forbid: jump-over p216 p217 p218
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:134
+Forbid: jump-over p219 p220 p221
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:132
+Forbid: jump-over p217 p218 p219
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:134
+Forbid: jump-over p219 p220 p221
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:134
+Forbid: jump-over p219 p220 p221
+
+If holds: var0:1 var2:0 var1:133
+Forbid: jump-over p218 p219 p220
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:137
+Forbid: jump-over p221 p222 p223
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:134
+Forbid: jump-over p219 p220 p221
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:137
+Forbid: jump-over p221 p222 p223
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:137
+Forbid: jump-over p221 p222 p223
+
+If holds: var0:1 var2:0 var1:136
+Forbid: jump-over p220 p221 p222
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:139
+Forbid: jump-over p223 p224 p225
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:137
+Forbid: jump-over p221 p222 p223
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:139
+Forbid: jump-over p223 p224 p225
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:139
+Forbid: jump-over p223 p224 p225
+
+If holds: var0:1 var2:0 var1:138
+Forbid: jump-over p222 p223 p224
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:141
+Forbid: jump-over p225 p226 p227
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:139
+Forbid: jump-over p223 p224 p225
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:141
+Forbid: jump-over p225 p226 p227
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:141
+Forbid: jump-over p225 p226 p227
+
+If holds: var0:1 var2:0 var1:140
+Forbid: jump-over p224 p225 p226
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:143
+Forbid: jump-over p227 p228 p229
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:141
+Forbid: jump-over p225 p226 p227
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:143
+Forbid: jump-over p227 p228 p229
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:143
+Forbid: jump-over p227 p228 p229
+
+If holds: var0:1 var2:0 var1:142
+Forbid: jump-over p226 p227 p228
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:145
+Forbid: jump-over p229 p230 p231
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:143
+Forbid: jump-over p227 p228 p229
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:145
+Forbid: jump-over p229 p230 p231
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:145
+Forbid: jump-over p229 p230 p231
+
+If holds: var0:1 var2:0 var1:144
+Forbid: jump-over p228 p229 p230
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:148
+Forbid: jump-over p231 p232 p233
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:145
+Forbid: jump-over p229 p230 p231
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:148
+Forbid: jump-over p231 p232 p233
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:148
+Forbid: jump-over p231 p232 p233
+
+If holds: var0:1 var2:0 var1:147
+Forbid: jump-over p230 p231 p232
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:150
+Forbid: jump-over p233 p234 p235
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:148
+Forbid: jump-over p231 p232 p233
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:150
+Forbid: jump-over p233 p234 p235
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:150
+Forbid: jump-over p233 p234 p235
+
+If holds: var0:1 var2:0 var1:149
+Forbid: jump-over p232 p233 p234
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:152
+Forbid: jump-over p235 p236 p237
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:150
+Forbid: jump-over p233 p234 p235
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:152
+Forbid: jump-over p235 p236 p237
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:152
+Forbid: jump-over p235 p236 p237
+
+If holds: var0:1 var2:0 var1:151
+Forbid: jump-over p234 p235 p236
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:154
+Forbid: jump-over p237 p238 p239
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:152
+Forbid: jump-over p235 p236 p237
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:154
+Forbid: jump-over p237 p238 p239
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:154
+Forbid: jump-over p237 p238 p239
+
+If holds: var0:1 var2:0 var1:153
+Forbid: jump-over p236 p237 p238
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:156
+Forbid: jump-over p239 p240 p241
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:154
+Forbid: jump-over p237 p238 p239
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:156
+Forbid: jump-over p239 p240 p241
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:156
+Forbid: jump-over p239 p240 p241
+
+If holds: var0:1 var2:0 var1:155
+Forbid: jump-over p238 p239 p240
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:159
+Forbid: jump-over p241 p242 p243
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:156
+Forbid: jump-over p239 p240 p241
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:159
+Forbid: jump-over p241 p242 p243
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:159
+Forbid: jump-over p241 p242 p243
+
+If holds: var0:1 var2:0 var1:158
+Forbid: jump-over p240 p241 p242
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:161
+Forbid: jump-over p243 p244 p245
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:159
+Forbid: jump-over p241 p242 p243
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:161
+Forbid: jump-over p243 p244 p245
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:161
+Forbid: jump-over p243 p244 p245
+
+If holds: var0:1 var2:0 var1:160
+Forbid: jump-over p242 p243 p244
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:163
+Forbid: jump-over p245 p246 p247
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:161
+Forbid: jump-over p243 p244 p245
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:163
+Forbid: jump-over p245 p246 p247
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:163
+Forbid: jump-over p245 p246 p247
+
+If holds: var0:1 var2:0 var1:162
+Forbid: jump-over p244 p245 p246
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:165
+Forbid: jump-over p247 p248 p249
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:163
+Forbid: jump-over p245 p246 p247
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:165
+Forbid: jump-over p247 p248 p249
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:165
+Forbid: jump-over p247 p248 p249
+
+If holds: var0:1 var2:0 var1:164
+Forbid: jump-over p246 p247 p248
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:167
+Forbid: jump-over p249 p250 p251
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:165
+Forbid: jump-over p247 p248 p249
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:167
+Forbid: jump-over p249 p250 p251
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:167
+Forbid: jump-over p249 p250 p251
+
+If holds: var0:1 var2:0 var1:166
+Forbid: jump-over p248 p249 p250
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:170
+Forbid: jump-over p251 p252 p253
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:167
+Forbid: jump-over p249 p250 p251
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:170
+Forbid: jump-over p251 p252 p253
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:170
+Forbid: jump-over p251 p252 p253
+
+If holds: var0:1 var2:0 var1:169
+Forbid: jump-over p250 p251 p252
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:172
+Forbid: jump-over p253 p254 p255
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:170
+Forbid: jump-over p251 p252 p253
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:172
+Forbid: jump-over p253 p254 p255
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254
+
+If holds: var0:1 var2:0 var1:171
+Forbid: jump-over p252 p253 p254

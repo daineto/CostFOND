@@ -1,0 +1,4 @@
+/home/dieaigar/Work/BOAND/HELLO_WORLD/scripts/TEST/2024-10-23_22:30:03/TEST_b_hadd_Blind_Blind_Zero_random_600_st_first_responders_p_2_3.sh: line 3: 34246 Killed                  python /home/dieaigar/Work/BOAND/planner/planner.py /home/dieaigar/Work/BOAND/benchmarks/st_first_responders/domain.pddl /home/dieaigar/Work/BOAND/benchmarks/st_first_responders/p_2_3.pddl /home/dieaigar/Work/BOAND/HELLO_WORLD/results/TEST/RUN_2024-10-23_22:30:03/b_hadd_Blind_Blind_Zero_random_600/st_first_responders/p_2_3/solutions/st_first_responders_p_2_3.sol -m b -ch hadd -bh Blind -wh Blind -sh Zero -s random
+real 286.61
+user 278.19
+sys 4.26

@@ -1,0 +1,4 @@
+/home/dieaigar/Work/BOAND/HELLO_WORLD/scripts/TEST/2024-10-23_22:30:03/TEST_b_hadd_Blind_Blind_Zero_random_600_islands_p4.sh: line 3: 20361 Killed                  python /home/dieaigar/Work/BOAND/planner/planner.py /home/dieaigar/Work/BOAND/benchmarks/islands/domain.pddl /home/dieaigar/Work/BOAND/benchmarks/islands/p4.pddl /home/dieaigar/Work/BOAND/HELLO_WORLD/results/TEST/RUN_2024-10-23_22:30:03/b_hadd_Blind_Blind_Zero_random_600/islands/p4/solutions/islands_p4.sol -m b -ch hadd -bh Blind -wh Blind -sh Zero -s random
+real 197.80
+user 87.40
+sys 11.77

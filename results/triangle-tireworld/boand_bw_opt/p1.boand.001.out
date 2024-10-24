@@ -1,0 +1,57 @@
+If holds: (vehicle_at l_1_1)/(spare_in l_2_2)/(spare_in l_3_1)/(not_flattire)/(spare_in l_2_1)
+Execute: (move_car l_1_1 l_2_1)
+
+If holds: (spare_in l_2_2)/(spare_in l_3_1)/(vehicle_at l_2_1)/(not_flattire)/(spare_in l_2_1)
+Execute: (move_car l_2_1 l_3_1)
+
+If holds: (vehicle_at l_2_1)/(spare_in l_2_2)/(spare_in l_3_1)/(spare_in l_2_1)
+Execute: (changetire l_2_1)
+
+If holds: (vehicle_at l_2_1)/(spare_in l_2_2)/(spare_in l_3_1)/(not_flattire)
+Execute: (move_car l_2_1 l_3_1)
+
+If holds: (spare_in l_2_2)/(spare_in l_3_1)/(vehicle_at l_3_1)/(not_flattire)/(spare_in l_2_1)
+Execute: (move_car l_3_1 l_2_2)
+
+If holds: (spare_in l_2_2)/(spare_in l_3_1)/(not_flattire)/(spare_in l_2_1)/(vehicle_at l_2_2)
+Execute: (move_car l_2_2 l_1_3)
+
+If holds: (spare_in l_2_2)/(spare_in l_3_1)/(vehicle_at l_3_1)
+Execute: (changetire l_3_1)
+
+If holds: (spare_in l_2_2)/(not_flattire)/(vehicle_at l_3_1)
+Execute: (move_car l_3_1 l_2_2)
+
+If holds: (spare_in l_2_2)/(vehicle_at l_2_2)
+Execute: (changetire l_2_2)
+
+If holds: (not_flattire)/(vehicle_at l_2_2)
+Execute: (move_car l_2_2 l_1_3)
+
+If holds: (vehicle_at l_2_2)/(spare_in l_2_2)/(not_flattire)
+Execute: (move_car l_2_2 l_1_3)
+
+If holds: (spare_in l_2_2)/(spare_in l_3_1)/(spare_in l_2_1)/(vehicle_at l_3_1)
+Execute: (changetire l_3_1)
+
+If holds: (not_flattire)/(spare_in l_2_2)/(spare_in l_2_1)/(vehicle_at l_3_1)
+Execute: (move_car l_3_1 l_2_2)
+
+If holds: (spare_in l_2_2)/(spare_in l_2_1)/(vehicle_at l_2_2)
+Execute: (changetire l_2_2)
+
+If holds: (not_flattire)/(spare_in l_2_1)/(vehicle_at l_2_2)
+Execute: (move_car l_2_2 l_1_3)
+
+If holds: (spare_in l_2_2)/(spare_in l_3_1)/(spare_in l_2_1)/(vehicle_at l_2_2)
+Execute: (changetire l_2_2)
+
+If holds: (not_flattire)/(spare_in l_3_1)/(spare_in l_2_1)/(vehicle_at l_2_2)
+Execute: (move_car l_2_2 l_1_3)
+
+If holds: (spare_in l_2_2)/(spare_in l_3_1)/(vehicle_at l_3_1)/(not_flattire)
+Execute: (changetire l_3_1)
+
+If holds: (spare_in l_2_1)/(not_flattire)/(spare_in l_2_2)/(vehicle_at l_2_2)
+Execute: (move_car l_2_2 l_1_3)
+

@@ -1,0 +1,21 @@
+If holds: (up_0)/(broken_leg_0)/(position p0)
+Execute: (climb p0)
+
+If holds: (up)/(broken_leg_0)/(position p0)
+Execute: (walk_on_beam p0 p1)
+
+If holds: (position p1)/(up)/(broken_leg_0)
+Execute: (walk_on_beam p1 p2)
+
+If holds: (up_0)/(position p1)/(broken_leg_0)
+Execute: (walk_left p1 p0)
+
+If holds: (up)/(position p2)/(broken_leg_0)
+Execute: (walk_on_beam p2 p3)
+
+If holds: (up_0)/(position p3)/(broken_leg_0)
+Execute: (walk_left p3 p2)
+
+If holds: (up_0)/(position p2)/(broken_leg_0)
+Execute: (walk_left p2 p1)
+

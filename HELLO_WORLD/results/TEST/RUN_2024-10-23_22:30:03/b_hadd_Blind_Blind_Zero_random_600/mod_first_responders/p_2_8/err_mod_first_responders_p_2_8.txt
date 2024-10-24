@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/dieaigar/Work/BOAND/planner/planner.py", line 647, in <module>
+    main(sys.argv, len(sys.argv))
+  File "/home/dieaigar/Work/BOAND/planner/planner.py", line 622, in main
+    solution = boand_star(domain_file, problem_file, solution_folder, use_metric=metric, use_cp_heuristic=heuristic, use_best_case_heuristic=best_heuristic, use_worst_case_heuristic=worst_heuristic, use_size_heuristic=size_heuristic, use_selector=selector)
+  File "/home/dieaigar/Work/BOAND/planner/planner.py", line 527, in boand_star
+    new_policy = extend_policy(current_policy, state, nondet_action, nondet_to_det_action[nondet_action], nondet_action_to_successors[nondet_action], task)
+  File "/home/dieaigar/Work/BOAND/planner/planner.py", line 267, in extend_policy
+    new_policy = current_policy.copy()
+  File "/home/dieaigar/Work/BOAND/planner/policy.py", line 24, in copy
+    new_policy.best_ancestors = self.best_ancestors.copy()
+MemoryError
+/home/dieaigar/Work/BOAND/HELLO_WORLD/scripts/TEST/2024-10-23_22:30:03/TEST_b_hadd_Blind_Blind_Zero_random_600_mod_first_responders_p_2_8.sh: line 3: 22008 Killed                  python /home/dieaigar/Work/BOAND/planner/planner.py /home/dieaigar/Work/BOAND/benchmarks/mod_first_responders/domain.pddl /home/dieaigar/Work/BOAND/benchmarks/mod_first_responders/p_2_8.pddl /home/dieaigar/Work/BOAND/HELLO_WORLD/results/TEST/RUN_2024-10-23_22:30:03/b_hadd_Blind_Blind_Zero_random_600/mod_first_responders/p_2_8/solutions/mod_first_responders_p_2_8.sol -m b -ch hadd -bh Blind -wh Blind -sh Zero -s random
+real 154.43
+user 69.22
+sys 8.53

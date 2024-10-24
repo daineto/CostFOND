@@ -1,0 +1,3 @@
+If holds: (at_x x1)/(at_y y1)/(solved x1 y1)/(enabled x1 y1)/(ninitialized x1 y1)
+Execute: (initialize_grid sx1 sy1 x1 y1)
+

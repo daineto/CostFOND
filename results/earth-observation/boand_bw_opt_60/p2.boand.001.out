@@ -1,0 +1,45 @@
+If holds: (is_focal_point p13)/(is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_target_0 p21)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p25)/(is_target_0 p34)/(is_target_0 p33)/(is_target_0 p32)/(is_target_0 p12)/(is_target_0 p24)
+Execute: (slew p13 p23)
+
+If holds: (is_focal_point p23)/(is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p32)/(is_target_0 p34)/(is_target_0 p21)/(is_target_0 p33)/(is_target_0 p12)/(is_target_0 p25)/(is_target_0 p24)
+Execute: (slew_cost_direction p23 p34 north_east)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_focal_point p34)/(is_target_0 p21)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p25)/(is_target_0 p34)/(is_target_0 p33)/(is_target_0 p32)/(is_target_0 p12)/(is_target_0 p24)
+Execute: (slew_cost_direction p34 p15 north_east)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_focal_point p15)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p32)/(is_target_0 p34)/(is_target_0 p21)/(is_target_0 p33)/(is_target_0 p12)/(is_target_0 p25)/(is_target_0 p24)
+Execute: (take_image p15 p25)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_focal_point p25)/(is_target_0 p21)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p25)/(is_target_0 p34)/(is_target_0 p33)/(is_target_0 p32)/(is_target_0 p12)/(is_target_0 p24)
+Execute: (slew p25 p35)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_target_0 p11)/(is_focal_point p35)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p32)/(is_target_0 p34)/(is_target_0 p21)/(is_target_0 p33)/(is_target_0 p12)/(is_target_0 p25)/(is_target_0 p24)
+Execute: (slew_cost_direction p35 p14 south_east)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_focal_point p14)/(is_target_0 p21)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p25)/(is_target_0 p34)/(is_target_0 p33)/(is_target_0 p32)/(is_target_0 p12)/(is_target_0 p24)
+Execute: (slew p14 p24)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p32)/(is_target_0 p34)/(is_target_0 p21)/(is_target_0 p33)/(is_target_0 p12)/(is_focal_point p24)/(is_target_0 p25)/(is_target_0 p24)
+Execute: (slew_cost_direction p24 p33 south_east)
+
+If holds: (is_focal_point p33)/(is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_target_0 p21)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p25)/(is_target_0 p34)/(is_target_0 p33)/(is_target_0 p32)/(is_target_0 p12)/(is_target_0 p24)
+Execute: (slew_cost_direction p33 p12 south_east)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_focal_point p12)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p32)/(is_target_0 p34)/(is_target_0 p21)/(is_target_0 p33)/(is_target_0 p12)/(is_target_0 p25)/(is_target_0 p24)
+Execute: (slew_cost_direction p12 p21 south_east)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_focal_point p21)/(is_target_0 p21)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p25)/(is_target_0 p34)/(is_target_0 p33)/(is_target_0 p32)/(is_target_0 p12)/(is_target_0 p24)
+Execute: (slew p21 p31)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p32)/(is_target_0 p34)/(is_target_0 p21)/(is_target_0 p33)/(is_target_0 p12)/(is_focal_point p31)/(is_target_0 p25)/(is_target_0 p24)
+Execute: (slew p31 p11)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_focal_point p11)/(is_target_0 p21)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p25)/(is_target_0 p34)/(is_target_0 p33)/(is_target_0 p32)/(is_target_0 p12)/(is_target_0 p24)
+Execute: (slew_cost_direction p11 p22 north_east)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_focal_point p22)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p32)/(is_target_0 p34)/(is_target_0 p21)/(is_target_0 p33)/(is_target_0 p12)/(is_target_0 p25)/(is_target_0 p24)
+Execute: (slew p22 p32)
+
+If holds: (is_target p15)/(is_target_0 p14)/(is_target_0 p35)/(is_target_0 p23)/(is_target_0 p21)/(is_target_0 p11)/(is_target_0 p13)/(is_target_0 p31)/(is_target_0 p22)/(is_target_0 p25)/(is_target_0 p34)/(is_target_0 p33)/(is_target_0 p32)/(is_target_0 p12)/(is_focal_point p32)/(is_target_0 p24)
+Execute: (slew_cost_direction p32 p13 north_east)
+

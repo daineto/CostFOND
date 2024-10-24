@@ -1,0 +1,75 @@
+If holds: (not_hasspare)/(tire_at t1 na1)/(vehicle_at n0)/(not_flattire)
+Execute: (move_car_normal n0 na1)
+
+If holds: (vehicle_at na1)/(not_hasspare)/(not_flattire)/(tire_at t1 na1)
+Execute: (loadtire na1 t1)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at na1)
+Execute: (move_car_normal na1 n0)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at n0)
+Execute: (move_car_normal n0 nb1)
+
+If holds: (vehicle_at nb1)/(not_flattire)/(hasspare t1)
+Execute: (move_car_normal nb1 nb2)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb2)
+Execute: (move_car_normal nb2 nb3)
+
+If holds: (not_flattire)/(vehicle_at nb3)/(hasspare t1)
+Execute: (move_car_normal nb3 nb4)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb4)
+Execute: (move_car_normal nb4 nb5)
+
+If holds: (not_flattire)/(vehicle_at nb5)/(hasspare t1)
+Execute: (move_car_normal nb5 nb6)
+
+If holds: (vehicle_at nb6)/(not_flattire)/(hasspare t1)
+Execute: (move_car_normal nb6 nb7)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb7)
+Execute: (move_car_normal nb7 nb8)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb8)
+Execute: (move_car_normal nb8 nb9)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb9)
+Execute: (move_car_normal nb9 nb10)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb10)
+Execute: (move_car_normal nb10 nb11)
+
+If holds: (not_flattire)/(vehicle_at nb11)/(hasspare t1)
+Execute: (move_car_normal nb11 nb12)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb12)
+Execute: (move_car_normal nb12 nb13)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb13)
+Execute: (move_car_normal nb13 nb14)
+
+If holds: (not_flattire)/(vehicle_at nb14)/(hasspare t1)
+Execute: (move_car_spiky nb14 nb15)
+
+If holds: (not_flattire)/(vehicle_at nb15)/(hasspare t1)
+Execute: (move_car_normal nb15 nb16)
+
+If holds: (not_flattire)/(hasspare t1)/(vehicle_at nb16)
+Execute: (move_car_normal nb16 nb17)
+
+If holds: (not_flattire)/(vehicle_at nb17)/(hasspare t1)
+Execute: (move_car_normal nb17 ng)
+
+If holds: (vehicle_at nb15)/(hasspare t1)/(flattire)
+Execute: (fix_1 t1)
+
+If holds: (not_flattire)/(vehicle_at nb15)/(not_hasspare)
+Execute: (move_car_normal nb15 nb16)
+
+If holds: (not_flattire)/(vehicle_at nb16)/(not_hasspare)
+Execute: (move_car_normal nb16 nb17)
+
+If holds: (not_flattire)/(vehicle_at nb17)/(not_hasspare)
+Execute: (move_car_normal nb17 ng)
+

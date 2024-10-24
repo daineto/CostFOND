@@ -1,0 +1,35 @@
+(define (domain tire)
+    (:requirements :strips :typing)
+    (:types location)
+    (:predicates (hasspare) (not-flattire) (road ?from - location ?to - location)  (spare-in ?loc - location)  (vehicle-at ?loc - location))
+    (:action changetire_DETDUP_1
+        :parameters ()
+        :precondition (hasspare)
+        :effect (and )
+    )
+     (:action changetire_DETDUP_2
+        :parameters ()
+        :precondition (hasspare)
+        :effect (and (not (hasspare)) (not-flattire))
+    )
+     (:action loadtire
+        :parameters (?loc - location)
+        :precondition (and (vehicle-at ?loc) (spare-in ?loc))
+        :effect (and (hasspare) (not (spare-in ?loc)))
+    )
+     (:action move-car_DETDUP_1
+        :parameters (?from - location ?to - location)
+        :precondition (and (vehicle-at ?from) (road ?from ?to) (not-flattire))
+        :effect (and (vehicle-at ?to) (not (vehicle-at ?from)))
+    )
+     (:action move-car_DETDUP_2
+        :parameters (?from - location ?to - location)
+        :precondition (and (vehicle-at ?from) (road ?from ?to) (not-flattire))
+        :effect (and (vehicle-at ?to) (not (vehicle-at ?from)))
+    )
+     (:action move-car_DETDUP_3
+        :parameters (?from - location ?to - location)
+        :precondition (and (vehicle-at ?from) (road ?from ?to) (not-flattire))
+        :effect (and (vehicle-at ?to) (not (vehicle-at ?from)) (not (not-flattire)))
+    )
+)

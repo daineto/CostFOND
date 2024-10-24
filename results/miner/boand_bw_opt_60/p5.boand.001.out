@@ -1,0 +1,39 @@
+If holds: (rock_at r2 l32)/(person_at l11)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(person_alive)/(gold_good_at l81)/(rock_at r1 l21)/(gold_good_at l94)/(gold_bad_at l22)/(gold_bad_at l11)/(gold_good_at l73)/(gold_bad_at l31)/(rock_at r3 l34)/(goldcount_0)/(rock_at r4 l11)/(gold_good_at l91)
+Execute: (pick_rock l11 r4)
+
+If holds: (rock_at r1 l21)/(holding r4)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(person_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(gold_bad_at l31)/(rock_at r3 l34)/(goldcount_0)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (drop_rock_press l11 r4)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(person_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(gold_bad_at l31)/(botton_pressed)/(rock_at r3 l34)/(goldcount_0)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (move_person l11 l21)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(gold_bad_at l31)/(botton_pressed)/(rock_at r3 l34)/(person_at l21)/(goldcount_0)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (move_person l21 l31)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(gold_bad_at l31)/(person_at l31)/(botton_pressed)/(rock_at r3 l34)/(goldcount_0)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (move_person l31 l41)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(person_at l41)/(gold_bad_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(gold_bad_at l31)/(botton_pressed)/(rock_at r3 l34)/(goldcount_0)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (move_person l41 l51)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(gold_bad_at l31)/(botton_pressed)/(rock_at r3 l34)/(goldcount_0)/(rock_at r4 l11)/(person_at l51)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (move_person l51 l61)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(person_at l61)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(gold_bad_at l31)/(botton_pressed)/(rock_at r3 l34)/(goldcount_0)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (move_person l61 l71)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_good_at l71)/(gold_bad_at l31)/(person_at l71)/(botton_pressed)/(rock_at r3 l34)/(goldcount_0)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (pick_good_gold_1 l71)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(person_at l71)/(gold_bad_at l31)/(goldcount_1)/(botton_pressed)/(rock_at r3 l34)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (move_person l71 l81)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(gold_good_at l73)/(rock_at r5 l31)/(person_at l81)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(goldcount_1)/(gold_bad_at l31)/(botton_pressed)/(rock_at r3 l34)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)/(gold_good_at l81)
+Execute: (pick_good_gold_2 l81)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(gold_bad_at l11)/(goldcount_2)/(gold_good_at l73)/(rock_at r5 l31)/(person_at l81)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_bad_at l31)/(botton_pressed)/(rock_at r3 l34)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)
+Execute: (move_person l81 l91)
+
+If holds: (rock_at r1 l21)/(gold_good_at l94)/(rock_at r2 l32)/(gold_bad_at l22)/(person_at l91)/(gold_bad_at l11)/(goldcount_2)/(gold_good_at l73)/(rock_at r5 l31)/(gold_bad_at l14)/(gold_bad_at l21)/(gold_bad_at l32)/(gold_bad_at l31)/(botton_pressed)/(rock_at r3 l34)/(rock_at r4 l11)/(person_alive)/(gold_good_at l91)
+Execute: (pick_good_gold_3 l91)
+

@@ -1,0 +1,3 @@
+If holds: (ninitialized x1 y1)/(at_x x1)/(at_y y1)/(enabled x1 y1)/(solved x1 y1)
+Execute: (initialize_blocksworld x1 y1)
+

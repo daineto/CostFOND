@@ -1,0 +1,4 @@
+/home/dieaigar/Work/BOAND/HELLO_WORLD/scripts/TEST/2024-10-23_22:30:03/TEST_b_hadd_Blind_Blind_Zero_random_600_bream-walk_p11.sh: line 3:  6855 Killed                  python /home/dieaigar/Work/BOAND/planner/planner.py /home/dieaigar/Work/BOAND/benchmarks/beam-walk/domain.pddl /home/dieaigar/Work/BOAND/benchmarks/beam-walk/p11.pddl /home/dieaigar/Work/BOAND/HELLO_WORLD/results/TEST/RUN_2024-10-23_22:30:03/b_hadd_Blind_Blind_Zero_random_600/bream-walk/p11/solutions/bream-walk_p11.sol -m b -ch hadd -bh Blind -wh Blind -sh Zero -s random
+real 447.15
+user 301.72
+sys 9.06

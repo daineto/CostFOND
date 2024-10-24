@@ -48,16 +48,19 @@ class Policy:
     return False
   
   def get_best_g(self, tile, init):
-      current = tile
-      g = 0
-      while current != init:
-          current = self.best_ancestors.get(current,None)
-          if current is None:
-              return math.inf
-          if current == tile:
-              return math.inf
-          g+=1
-      return g
+        current = tile
+        g = 0
+        # while current != init:
+        #     current = self.best_ancestors.get(current,None)
+        #     if current is None:
+        #         return math.inf
+        #     if current == tile:
+        #         return math.inf
+          
+        while current is not None:
+            current = self.best_ancestors.get(current,None)
+            g+=1
+        return g-1
 
   def get_worst_g(self,tile, init):
       ancestors = set()
@@ -65,15 +68,15 @@ class Policy:
       
       current = tile
       g = 0
-      while current != init:
+      while current != None: # reaches the initial state
           current = self.worst_ancestors.get(current,None)
-          if current is None:
-              return math.inf
+        #   if current is None:
+        #       return math.inf
           if current in ancestors:
               return math.inf
           g+=1
           ancestors.add(current)
-      return g
+      return g-1
     
   def check_for_cycles(self, init, board):
     if not self.cyclic:
@@ -144,24 +147,58 @@ def select_pending_state(policy):
     # 2: pop a random pending state
     # tile = policy.pending.pop()
 
+    # 3: Extend non-infinity g first
+    # non_inf_pending = set([tile for tile in policy.pending if policy.get_worst_g(tile,init) < math.inf])
+    # inf_pending = set([tile for tile in policy.pending if policy.get_worst_g(tile,init) == math.inf])
+
+    # if len(inf_pending) > 0:
+    #     pass
+
+    # if len(non_inf_pending) > 0:
+    #     # tile = non_inf_pending.pop()
+    #     prio_list = []
+    #     for tile in non_inf_pending:
+    #         heapq.heappush(prio_list, (-(policy.get_worst_g(tile,init)-manhattan(tile,goal)),tile))
+    #     g,tile = heapq.heappop(prio_list)
+    # else:
+    #     print(len(inf_pending))
+    #     tile = inf_pending.pop()
+    # policy.pending.remove(tile)
+
+    # 4: establish bounds
+    # prio_list = []
+    # if policy.best_ancestors.get(goal,None) is None:
+    #     for tile in policy.pending:
+    #         heapq.heappush(prio_list, (policy.get_best_g(tile,init)+manhattan(tile,goal),tile))
+    # else:
+    #     for tile in policy.pending:
+    #         heapq.heappush(prio_list, (-(policy.get_best_g(tile,init)+manhattan(tile,goal)),tile))
+    # g,tile = heapq.heappop(prio_list)
+    # policy.pending.remove(tile)
+
     return tile
 
 # BRUTE FORCE: generate all pi-trajectories
-def update_g_brute(policy, tile, reached_tiles):
+def update_g_values(policy, tile, reached_tiles):
     all_new = True
     for reached_tile in reached_tiles:
         # First time reaching the state
         # tile is the best and worst ancestor
         if policy.best_ancestors.get(reached_tile,None) is None:
-            policy.best_ancestors[reached_tile] = tile
+            if reached_tile != init:
+                policy.best_ancestors[reached_tile] = tile
             policy.worst_ancestors[reached_tile] = tile
         # Not the first time
         else:
             all_new = False
-    if all_new:
-        return
     
-    # ELSE: Update g
+    if not all_new:
+        update_g_brute(policy)
+
+
+def update_g_brute(policy):   
+    # BRUTE FORCE: Compute al pi-trajectories
+
     trajectories = list()
     cycles = list()
     frontier = {init:[]}
@@ -174,7 +211,8 @@ def update_g_brute(policy, tile, reached_tiles):
             reached_tiles = get_successor_states(tile,action,board)
             for reached_tile in reached_tiles:
                 if reached_tile in ancestors: # Cycle
-                    cycles.append(ancestors[ancestors.index(reached_tile):])
+                    cycles.append(ancestors[ancestors.index(reached_tile):]+[tile])
+                    pass
                 else: # Not a cycle
                     if policy.get_worst_g(tile,init) > policy.get_worst_g(policy.worst_ancestors[reached_tile],init):
                         policy.worst_ancestors[reached_tile] = tile
@@ -190,8 +228,14 @@ def update_g_brute(policy, tile, reached_tiles):
             reached_tiles = get_successor_states(tile,action,board)
             for reached_tile in reached_tiles:
                 policy.worst_ancestors[reached_tile] = tile
-    if len(cycles) != 0:
+    if len(cycles) > 0:
         policy.cyclic = True
+
+    #DEBUG
+    if not policy.cyclic:
+        for tile in policy.pending:
+            if policy.get_worst_g(tile, init) == math.inf:
+                pass
 
 # THIS METHOD SEEMS TO UNDERAPPROXIMATE THE WORST G
 def update_g_incremental(policy, tile, reached_tiles):
@@ -212,8 +256,6 @@ def update_g_incremental(policy, tile, reached_tiles):
                 # new worst g indicates possible cycle
                 policy.check_for_cycles(init, board)
 
-def update_g_values():
-    pass
 
 
 def extend_policy(current_policy, tile, action):
@@ -223,7 +265,7 @@ def extend_policy(current_policy, tile, action):
     # Compute the tiles reached with the new action
     reached_tiles = get_successor_states(tile, action, board)
     # Update the g-values (ancestors) of the reached states 
-    update_g_brute(new_policy,tile, reached_tiles) # ACCURATE BUT COSTLY
+    update_g_values(new_policy,tile, reached_tiles) # ACCURATE BUT COSTLY
     # update_g_incremental(new_policy,tile,reached_tiles) # CHEAP, BUT CAN UNDERAPPROXIMATE THE WORST G
 
     # Compute pending tiles for the new policy
@@ -233,24 +275,39 @@ def extend_policy(current_policy, tile, action):
     return new_policy
 
 def compute_f_value(policy):
-    if policy.is_closed():
-        f_best = policy.get_best_g(goal,init)
-        if policy.cyclic:
-            f_worst = math.inf
-        else:
-            f_worst = policy.get_worst_g(goal,init)
-    else:
-        if policy.best_ancestors.get(goal, None) is not None:
-            f_best = policy.get_best_g(goal,init)
-        else:
-            f_best = min([policy.get_best_g(pending_tile, init) + manhattan(pending_tile,goal) for pending_tile in policy.pending])
+    # if policy.is_closed():
+    #     f_best = policy.get_best_g(goal,init)
+    #     if policy.cyclic:
+    #         f_worst = math.inf
+    #     else:
+    #         f_worst = policy.get_worst_g(goal,init)
+    # else:
+    #     if policy.best_ancestors.get(goal, None) is not None:
+    #         f_best = policy.get_best_g(goal,init)
+    #     else:
+    #         f_best = min([policy.get_best_g(pending_tile, init) + manhattan(pending_tile,goal) for pending_tile in policy.pending])
 
-        if policy.cyclic:
-            f_worst = math.inf
-        else:
-            f_worst = max([policy.get_worst_g(pending_tile, init) + manhattan(pending_tile,goal) for pending_tile in policy.pending])
+    #     if policy.cyclic:
+    #         f_worst = math.inf
+    #     else:
+    #         f_worst = max([policy.get_worst_g(pending_tile, init) + manhattan(pending_tile,goal) for pending_tile in policy.pending])
 
-    return f_best, f_worst
+    Out = policy.pending.copy()
+    if policy.best_ancestors.get(goal, None) is not None: # This is for policies that already reach the goal
+        Out.add(goal)
+    f_best = min([policy.get_best_g(tile, init) + manhattan(tile,goal) for tile in Out], default=math.inf)
+    f_worst = max([policy.get_worst_g(tile, init) + manhattan(tile,goal) for tile in Out], default=math.inf)
+    # f_close = len(policy.pending)
+    # h_vector = sorted([manhattan(tile, goal) for tile in policy.pending])
+    # if len(h_vector) > 0:
+    #     f_close = max([h_vector[i] + i for i in range(len(h_vector))])
+    # else:
+    #     f_close = 0
+
+
+    f_close = 0
+
+    return f_best, f_worst, f_close
 
 
 # %%
@@ -316,7 +373,7 @@ def get_successor_states(tile,action,board):
             if tile_row > 1 and board[tile_column][tile_row-1] != 'H' and board[tile_column][tile_row-2] != 'O':
                 successors.add((tile_column,tile_row-2))
 
-    
+
     return successors
 
 # %%
@@ -332,21 +389,33 @@ def a_star(board, init, goal):
     # Push the empty policy onto the open list
     heapq.heappush(open_list, ((0,0), empty_policy))
 
+    pareto_frontier = []
+    pareto_f = (math.inf, math.inf)
+    repeated = 0
     # Loop until the open list is empty
     while open_list:
         # Get the policy with the lowest f value
         f_value, current_policy = heapq.heappop(open_list)
 
+        # Pruning non-Pareto solutions
+        if f_value[0] >= pareto_f[0] and f_value[1] >= pareto_f[1]:
+            continue
+
         # CLOSED LIST SEEMS UNNECESSARY
         hashable_strategy = frozenset(current_policy.strategy.items())
         if hashable_strategy in closed_list:
+            repeated += 1
             pass # Add a breakpoint here to see hits
         closed_list.add(hashable_strategy)
+        
 
         # Check if the policy is closed
         if current_policy.is_closed():
             # If closed and proper, it is a solution
             if current_policy.is_proper(init, goal, board):
+                # f_best, f_worst = compute_f_value(current_policy)
+                pareto_frontier += [current_policy]
+                pareto_f = (f_value[0], f_value[1])
                 continue # Uncomment and add breakpoint to see all solutions
                 return current_policy
             # If closed but not proper, not a solution
@@ -363,18 +432,18 @@ def a_star(board, init, goal):
             new_policy = extend_policy(current_policy, tile, action)
 
             # Calculate new_policy's f-value
-            f_best, f_worst = compute_f_value(new_policy)
+            f_best, f_worst, f_close = compute_f_value(new_policy)
 
             # Uncomment to discard cyclic policies
-            # if new_policy.cyclic:
-            #     continue
+            if new_policy.cyclic:
+                continue
 
             # Add the child to the open list
-            heapq.heappush(open_list, ((f_best,f_worst),new_policy)) # BEST then WORST
-            # heapq.heappush(open_list, ((f_worst,f_best),new_policy)) # WORST then BEST
+            heapq.heappush(open_list, ((f_best,f_worst, f_close),new_policy)) # BEST then WORST
+            # heapq.heappush(open_list, ((f_worst,f_best, f_close),new_policy)) # WORST then BEST
 
     print(len(closed_list))
-    return None  # No path found
+    return None  # No policy found
 
 # %%
 rows = 6
@@ -394,5 +463,50 @@ init = (0,5)
 goal = (5,5)
 
 # %%
-solution = a_star(board, init, goal)
+# solution = a_star(board, init, goal)
+# pass
+
+strategy1 = {
+    (0,5): "R",
+    (2,5): "D",
+    (1,5): "R",
+    (2,4): "R",
+    (3,4): "R",
+    (5,4): "U",
+    (2,3): "D",
+    (2,2): "R",
+    (4,2): "R",
+    (3,2): "R",
+    (5,2): "U",
+    (5,3): "U",
+    (4,4): "R",
+    (3,5): "D",
+    (3,3): "U",
+}
+
+strategy2 = {
+    (0,5) : "R",
+    (1,5) : "R",
+    (2,5) : "D",
+    (2,4) : "D",
+    (3,5) : "D",
+    (3,4) : "R",
+    (5,4) : "U",
+    (2,2) : "R",
+    (3,2) : "R",
+    (5,2) : "U",
+    (4,2) : "R",
+    (5,3) : "U",
+    (4,4) : "R",
+    (2,3) : "D",
+    (3,3) : "U"
+}
+
+pi = Policy(dict(), {(0,5)})
+
+while len(pi.pending) != 0:
+    tile = pi.pending.pop()
+    pi = extend_policy(pi, tile, strategy2[tile])
+
+f_score = compute_f_value(pi)
 pass

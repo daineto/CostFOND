@@ -1,0 +1,12 @@
+If holds: (search_most_useful)/(possible_classification_us_0 class2)/(possible_classification_us_0 class3)/(possible_classification_us_0 class1)/(make_request_0)/(has_value_0 slot1)/(is_most_useful_0 slot1)/(unexpected_intent_received_0)
+Execute: (search_most_useful_slot)
+
+If holds: (possible_classification_us_0 class1)/(make_request)/(is_most_useful slot1)/(has_value_0 slot1)/(search_most_useful_0)/(unexpected_intent_received_0)/(possible_classification_us_0 class2)/(possible_classification_us_0 class3)
+Execute: (request_slot1)
+
+If holds: (possible_classification_us class1)/(search_most_useful_0)/(possible_classification_us_0 class2)/(possible_classification_us_0 class3)/(has_value slot1)/(make_request_0)/(is_most_useful_0 slot1)/(unexpected_intent_received_0)
+Execute: (report_class1)
+
+If holds: (possible_classification_us_0 class1)/(has_value slot1)/(search_most_useful)/(make_request_0)/(is_most_useful_0 slot1)/(unexpected_intent_received_0)/(possible_classification_us_0 class2)/(possible_classification_us_0 class3)
+Execute: (report_default)
+

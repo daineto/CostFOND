@@ -1,0 +1,27 @@
+If holds: (person_at l55_1)/(bridge_clear)/(person_alive)
+Execute: (move_person l55_1 l54_1)
+
+If holds: (person_at l54_1)/(bridge_clear)/(person_alive)
+Execute: (move_person l54_1 l53_1)
+
+If holds: (bridge_clear)/(person_at l53_1)/(person_alive)
+Execute: (move_person l53_1 l52_1)
+
+If holds: (bridge_clear)/(person_at l52_1)/(person_alive)
+Execute: (move_person l52_1 l51_1)
+
+If holds: (bridge_clear)/(person_at l51_1)/(person_alive)
+Execute: (walk_on_bridge l51_1 l55_2)
+
+If holds: (person_at l55_2)/(bridge_clear)/(person_alive)
+Execute: (move_person l55_2 l54_2)
+
+If holds: (bridge_clear)/(person_at l54_2)/(person_alive)
+Execute: (move_person l54_2 l53_2)
+
+If holds: (person_at l53_2)/(bridge_clear)/(person_alive)
+Execute: (move_person l53_2 l52_2)
+
+If holds: (bridge_clear)/(person_at l52_2)/(person_alive)
+Execute: (move_person l52_2 l51_2)
+

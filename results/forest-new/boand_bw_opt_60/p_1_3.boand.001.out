@@ -1,0 +1,3 @@
+If holds: (enabled x1 y1)/(ninitialized x1 y1)/(at_y y1)/(solved x1 y1)/(at_x x1)
+Execute: (initialize_logistics x1 y1)
+

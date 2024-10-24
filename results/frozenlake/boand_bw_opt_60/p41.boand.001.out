@@ -1,0 +1,18 @@
+If holds: (at_ tile_4_5)
+Execute: (down tile_4_5 tile_4_4 tile_4_3)
+
+If holds: (at_ tile_4_3)
+Execute: (left tile_4_3 tile_3_3 tile_2_3)
+
+If holds: (at_ tile_2_3)
+Execute: (left tile_2_3 tile_1_3 tile_0_3)
+
+If holds: (at_ tile_4_4)
+Execute: (down_to_wall tile_4_4 tile_4_3 tile_4_2)
+
+If holds: (at_ tile_1_3)
+Execute: (left_to_wall tile_1_3 tile_0_3 leftwall_3)
+
+If holds: (at_ tile_3_3)
+Execute: (left tile_3_3 tile_2_3 tile_1_3)
+

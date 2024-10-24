@@ -1,0 +1,24 @@
+If holds: (dead_0)/(ypos n0)/(xpos n0)
+Execute: (move_ur_sf n0 n0 n1 n1)
+
+If holds: (dead)/(ypos n0)/(xpos n0)
+Execute: (ghostteleport n0 n0 n4 n4)
+
+If holds: (ypos n1)/(dead_0)/(xpos n1)
+Execute: (move_ur_sf n1 n1 n2 n2)
+
+If holds: (dead_0)/(ypos n2)/(xpos n2)
+Execute: (move_ur_sf n2 n2 n3 n3)
+
+If holds: (ypos n2)/(xpos n2)/(dead)
+Execute: (ghostteleport n2 n2 n4 n4)
+
+If holds: (ypos n3)/(dead_0)/(xpos n3)
+Execute: (move_ur_sf n3 n3 n4 n4)
+
+If holds: (ypos n3)/(dead)/(xpos n3)
+Execute: (ghostteleport n3 n3 n4 n4)
+
+If holds: (ypos n1)/(dead)/(xpos n1)
+Execute: (ghostteleport n1 n1 n3 n3)
+
